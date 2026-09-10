@@ -600,7 +600,7 @@ function render() {
         </div>
         ${a.abstract ? `<div class="d-abstract"><strong>Abstract:</strong> ${highlight(a.abstract.replace(/<[^>]+>/g, ''), currentQuery)}</div>` : ''}
         <div class="d-links">
-          ${a.url ? `<a href="${a.url}" target="_blank" onclick="event.stopPropagation()">View on SciOpen →</a>` : ''}
+          ${a.url ? `<a href="https://doi.org/10.1007/s42757-023-0168-8" target="_blank" onclick="event.stopPropagation()">View on Springer →</a>` : ''}
           ${a.pdf_springer ? `<a href="${a.pdf_springer}" target="_blank" onclick="event.stopPropagation()">Download PDF (Springer) →</a>` : ''}
         </div>
       </div>
