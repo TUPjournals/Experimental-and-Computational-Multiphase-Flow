@@ -5266,5 +5266,402 @@
     "url": "https://www.sciopen.com/article/10.1007/s42757-023-0159-9",
     "month": "March",
     "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0159-9.pdf"
+  },
+  {
+    "doi": "10.1007/s42757-025-0284-8",
+    "title": "Metal chip transport through narrow twisted drill channels—Coupling of CFD and DEM",
+    "authors": [
+      {
+        "name": "Tobias H. Müller"
+      },
+      {
+        "name": "E. Oezkaya"
+      },
+      {
+        "name": "Dirk Biermann"
+      },
+      {
+        "name": "Peter Eberhard"
+      }
+    ],
+    "affiliations": [
+      "Institute of Machining Technology, TU Dortmund University, Baroper Str. 303, Dortmund D-44227, Germany"
+    ],
+    "keywords": [
+      "CFD-DEM coupling",
+      "chip transport",
+      "vibration-assisted drilling",
+      "minimum quantity lubrication"
+    ],
+    "abstract": "In drilling processes, chips must be transported out of the borehole to free the work site from obstructions and evacuate process heat to prevent tool damage/breakage and thermal influences on the workpiece material. In vibration-assisted drilling (VAD), an axial tool oscillation superimposed on the continuous tool feed improves the chip transport by a kinematically enforced chip breakage. Nevertheless, especially for ductile and adhesive materials, clogging of the tool flute by subsequently generated chips is still a challenge. This study investigates the chip transport process in VAD under minimum quantity lubrication (MQL) using a coupled CFD–DEM simulation approach.",
+    "volume": 8,
+    "issue": 4,
+    "firstpage": "657",
+    "lastpage": "668",
+    "year": 2026,
+    "publication_date": "2026/12/10",
+    "online_date": "2026/3/24",
+    "received": "28 March 2025",
+    "revised": "29 July 2025",
+    "accepted": "24 September 2025",
+    "published": "24 March 2026",
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0284-8",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-025-0284-8.pdf",
+    "internal_id": "2097889885868032001",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0284-8.pdf",
+    "research_area": [
+      "Computational methods and modeling",
+      "Particle behaviors and interactions"
+    ]
+  },
+  {
+    "doi": "10.1007/s42757-025-0274-x",
+    "title": "Influence of viscosity and surface tension on bubble aspect ratios in bubble swarms: A new correlation",
+    "authors": [
+      {
+        "name": "Péter Kováts"
+      },
+      {
+        "name": "Katharina Zähringer"
+      }
+    ],
+    "affiliations": [
+      "Institute of Fluid Mechanics, University of Erlangen-Nuremberg, Cauerstraße 4, Erlangen 91058, Germany"
+    ],
+    "keywords": [
+      "bubble aspect ratio",
+      "bubble swarm",
+      "viscosity",
+      "surface tension",
+      "correlation"
+    ],
+    "abstract": "",
+    "volume": 8,
+    "issue": 4,
+    "firstpage": "669",
+    "lastpage": "683",
+    "year": 2026,
+    "publication_date": "2026/12/10",
+    "online_date": "2026/4/20",
+    "received": "09 January 2025",
+    "revised": "23 July 2025",
+    "accepted": "19 August 2025",
+    "published": "20 April 2026",
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0274-x",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-025-0274-x.pdf",
+    "internal_id": "2097889886271553538",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0274-x.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Gas-liquid/particle flows"
+    ]
+  },
+  {
+    "doi": "10.1007/s42757-026-0283-4",
+    "title": "Multichannel flow boiling maldistribution and synchronization",
+    "authors": [
+      {
+        "name": "Rafałko G"
+      },
+      {
+        "name": "Grzybowski H"
+      },
+      {
+        "name": "Dzienis P"
+      }
+    ],
+    "affiliations": [],
+    "keywords": [
+      "flow boiling",
+      "multichannel",
+      "maldistribution",
+      "synchronization"
+    ],
+    "abstract": "In systems with compressible volumes, long-term pressure oscillations during boiling occur. Flow boiling of distilled water in 11 parallel microchannels covered by a thin, elastic glass has been investigated.",
+    "volume": 8,
+    "issue": 4,
+    "firstpage": "684",
+    "lastpage": "693",
+    "year": 2026,
+    "publication_date": "2026/12/10",
+    "online_date": "2026/4/30",
+    "received": "30 July 2025",
+    "revised": "23 November 2025",
+    "accepted": "05 January 2026",
+    "published": "30 April 2026",
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-026-0283-4",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-026-0283-4.pdf",
+    "internal_id": "2097889876217741313",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-026-0283-4.pdf",
+    "research_area": [
+      "Heat transfers",
+      "Phase changes",
+      "Multiphase flow regimes"
+    ]
+  },
+  {
+    "doi": "10.1007/s42757-025-0280-z",
+    "title": "Numerical simulation of multiphase heat transfer and evaporation of liquid films in rectangular heat exchanger channels",
+    "authors": [
+      {
+        "name": "Vallem R"
+      },
+      {
+        "name": "Merbold S"
+      },
+      {
+        "name": "de Graaf S"
+      }
+    ],
+    "affiliations": [],
+    "keywords": [
+      "multiphase heat transfer",
+      "evaporation",
+      "liquid film",
+      "VOF",
+      "numerical simulation"
+    ],
+    "abstract": "A simplified 2D channel geometry is considered with a stationary liquid film initialized on a heated wall at the bottom of the channel, where a constant temperature is specified. The governing equations are solved using an Eulerian framework with the volume-of-fluid method to resolve the liquid–gas interface.",
+    "volume": 8,
+    "issue": 4,
+    "firstpage": "694",
+    "lastpage": "711",
+    "year": 2026,
+    "publication_date": "2026/12/10",
+    "online_date": "2026/5/13",
+    "received": "",
+    "revised": "",
+    "accepted": "",
+    "published": "13 May 2026",
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0280-z",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-025-0280-z.pdf",
+    "internal_id": "2097889881083133953",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0280-z.pdf",
+    "research_area": [
+      "Heat transfers",
+      "Phase changes",
+      "Computational methods and modeling"
+    ]
+  },
+  {
+    "doi": "10.1007/s42757-025-0268-8",
+    "title": "Improving the estimation of slug frequency from two-phase flow simulations in horizontal pipelines",
+    "authors": [
+      {
+        "name": "Sonja Schmelter"
+      },
+      {
+        "name": "Stanislav Knotek"
+      },
+      {
+        "name": "Marc Olbrich"
+      },
+      {
+        "name": "Markus Bär"
+      }
+    ],
+    "affiliations": [
+      "Physikalisch-Technische-Bundesanstalt (PTB), Abbestraße 2-12, Berlin 10587, Germany",
+      "Czech Metrology Institute, Okruzni 31, Brno 638 00, Czech Republic",
+      "Institute of Fluid Dynamics and Technical Acoustics, Technische Universität Berlin, Müller-Breslau-Straße 8, Berlin 10623, Germany"
+    ],
+    "keywords": [
+      "gas–liquid two-phase flow",
+      "horizontal pipelines",
+      "computational fluid dynamics (CFD)",
+      "slug frequency",
+      "power spectral density (PSD)",
+      "slug unit time distribution"
+    ],
+    "abstract": "Slug flow is a common flow pattern that is often accompanied by undesired effects, such as important pressure loss or vibrations, leading to large errors in multiphase flow metering. As these undesirable effects strongly correlate with the frequency of slug occurrence, this parameter is of particular interest.",
+    "volume": 8,
+    "issue": 4,
+    "firstpage": "712",
+    "lastpage": "726",
+    "year": 2026,
+    "publication_date": "2026/12/10",
+    "online_date": "2026/4/20",
+    "received": "20 January 2025",
+    "revised": "14 May 2025",
+    "accepted": "13 June 2025",
+    "published": "20 April 2026",
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0268-8",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-025-0268-8.pdf",
+    "internal_id": "2097889886221156353",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0268-8.pdf",
+    "research_area": [
+      "Multiphase flow regimes",
+      "Flow instability"
+    ]
+  },
+  {
+    "doi": "10.1007/s42757-025-0263-0",
+    "title": "Validation of the AIAD model in ANSYS Fluent for horizontal two-phase flows",
+    "authors": [
+      {
+        "name": "Toni Fritz Arnold"
+      },
+      {
+        "name": "Thomas Höhne"
+      }
+    ],
+    "affiliations": [
+      "Institute of Fluid Dynamics, Technische Universität Dresden, Fakultät für Maschinenwesen, Dresden D-01067, Germany",
+      "Department of Computational Fluid Dynamics, Helmholtz-Zentrum Dresden - Rossendorf (HZDR), Bautzner Landstraße 400, Dresden D-01328, Germany"
+    ],
+    "keywords": [
+      "Fluent",
+      "Algebraic Interfacial Area Model (AIAD)",
+      "HAWAC",
+      "validation",
+      "computational fluid dynamics (CFD)"
+    ],
+    "abstract": "Computational fluid dynamics (CFD) simulations of flows involving free surfaces often use the homogeneous model approach, which focuses on solving a single set of balance equations. This approach assigns unique material properties to each phase but calculates only one shared velocity field. However, significant challenges arise when the phases are not distinctly spatially separated, such as during bubble entrainment in wavy or slug flows. In such scenarios, accurately modeling phase separation becomes difficult. To address this issue for industrial-scale multiphase flows, the Algebraic Interfacial Area Model (AIAD) was developed at the Helmholtz-Zentrum Dresden - Rossendorf (HZDR) in collaboration with ANSYS.",
+    "volume": 8,
+    "issue": 4,
+    "firstpage": "727",
+    "lastpage": "742",
+    "year": 2026,
+    "publication_date": "2026/12/10",
+    "online_date": "2026/4/20",
+    "received": "23 July 2024",
+    "revised": "24 April 2025",
+    "accepted": "25 May 2025",
+    "published": "20 April 2026",
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0263-0",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-025-0263-0.pdf",
+    "internal_id": "2097889892965597186",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0263-0.pdf",
+    "research_area": [
+      "Computational methods and modeling",
+      "Multiphase flow regimes"
+    ]
+  },
+  {
+    "doi": "10.1007/s42757-026-0284-3",
+    "title": "Effect of droplet size on the fluctuation velocity of single droplets suspended in forced homogeneous isotropic turbulent flow",
+    "authors": [
+      {
+        "name": "Mario Hermes"
+      },
+      {
+        "name": "Romuald Skoda"
+      }
+    ],
+    "affiliations": [
+      "Chair of Hydraulic Fluid Machinery, Ruhr University Bochum, Universittsstr. 150, Bochum 44801, Germany"
+    ],
+    "keywords": [
+      "interface-resolving direct numerical simulation",
+      "geometric volume of fluid",
+      "droplet-laden homogeneous isotropic turbulent flow",
+      "population balance modelling",
+      "OpenFOAM"
+    ],
+    "abstract": "Direct Numerical Simulations (DNS) of single droplet motion in forced homogeneous isotropic turbulent flow are performed by a Volume of Fluid (VoF) method at a Taylor-scale Reynolds number of 57. The density and viscosity ratios between the carrier and droplet phases are equal to one. Droplet breakup is prevented by maintaining a small Weber number.",
+    "volume": 8,
+    "issue": 4,
+    "firstpage": "743",
+    "lastpage": "771",
+    "year": 2026,
+    "publication_date": "2026/12/10",
+    "online_date": "2026/5/13",
+    "received": "18 July 2025",
+    "revised": "04 November 2025",
+    "accepted": "05 January 2026",
+    "published": "13 May 2026",
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-026-0284-3",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-026-0284-3.pdf",
+    "internal_id": "2097889876217741313",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-026-0284-3.pdf",
+    "research_area": [
+      "Multiphase turbulence mechanisms",
+      "Disperse dynamics"
+    ]
+  },
+  {
+    "doi": "10.1007/s42757-025-0276-8",
+    "title": "Experiments and 3D transient MP-PIC simulations of a circulating fluidized bed reactor",
+    "authors": [
+      {
+        "name": "Kevin Rave"
+      },
+      {
+        "name": "Norbert Vogl"
+      },
+      {
+        "name": "Wilfried Klos"
+      },
+      {
+        "name": "Hans-Jürgen Odenthal"
+      },
+      {
+        "name": "Aneta Konior"
+      },
+      {
+        "name": "Jean Pierre Matriciani"
+      },
+      {
+        "name": "Josef Fuchs"
+      },
+      {
+        "name": "Stefan Müller"
+      }
+    ],
+    "affiliations": [
+      "SMS Group GmbH, Am SMS Campus 1, Mönchengladbach 41069, Germany",
+      "Technische Universität Wien, Institut für Verfahrenstechnik, Umwelttechnik und Technische Biowissenschaften (ICEBE), Getreidemarkt 9/166-7, Vienna 1060, Austria"
+    ],
+    "keywords": [
+      "circulating fluidized bed (CFB)",
+      "CFD",
+      "multiphase particle-in-cell (MP-PIC)",
+      "OpenFOAM",
+      "particle size measurements"
+    ],
+    "abstract": "Steelmaking processes that employ circulating fluidized bed reactors (CFBRs) for hydrogen-based iron ore reduction represent a promising, efficient, and environmentally friendly alternative to traditional blast furnace and direct reduction shaft furnace methods. The aim of this study is to develop a simulation model using the multiphase particle-in-cell (MP-PIC) approach, validated against experimental measurements from a lab-scale CFBR.",
+    "volume": 8,
+    "issue": 4,
+    "firstpage": "772",
+    "lastpage": "786",
+    "year": 2026,
+    "publication_date": "2026/12/10",
+    "online_date": "2026/4/20",
+    "received": "28 March 2025",
+    "revised": "29 July 2025",
+    "accepted": "24 September 2025",
+    "published": "20 April 2026",
+    "type": "Research Article",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0276-8",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-025-0276-8.pdf",
+    "internal_id": "2097889881083133953",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0276-8.pdf",
+    "research_area": [
+      "Particle behaviors and interactions",
+      "Granular flows"
+    ]
   }
 ]
