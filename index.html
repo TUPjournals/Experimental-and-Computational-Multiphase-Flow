@@ -611,6 +611,7 @@ function render() {
         <span class="card-cite-text">${getCiteText(a)}</span>
         <button class="card-cite-btn" onclick="copyCite(${i})">Copy</button>
         <a class="card-cite-btn" href="javascript:void(0)" onclick="downloadRIS(${i})" style="background:#27ae60;color:#fff;text-decoration:none;display:inline-block;padding:3px 10px;border-radius:4px;font-size:0.72rem">RIS</a>
+        <a class="card-cite-btn" href="javascript:void(0)" onclick="downloadBibTeX(${i})" style="background:#9b59b6;color:#fff;text-decoration:none;display:inline-block;padding:3px 10px;border-radius:4px;font-size:0.72rem">BibTeX</a>
       </div>` : ''}
       <div class="detail">
         <div class="detail-grid">
@@ -748,6 +749,40 @@ function download(content, filename, mime) {
   a.href = url; a.download = filename;
   document.body.appendChild(a); a.click();
   document.body.removeChild(a); URL.revokeObjectURL(url);
+}
+
+/* ── Download BibTeX ── */
+function downloadBibTeX(idx) {
+  const a = filteredArticles[idx];
+  if (!a) return;
+  const bibtex = a.bibtex || generateBibTeX(a);
+  const filename = (a.doi || 'article').replace(/[/\\:*?"<>|]/g, '_') + '.bib';
+  download(bibtex, filename, 'application/x-bibtex;charset=utf-8;');
+}
+
+function generateBibTeX(a) {
+  const first_author = (a.authors?.[0]?.name || 'Unknown').split(/\s+/).pop() || 'Unknown';
+  const year = a.year || '2026';
+  const key = first_author + year;
+  const authors_bib = (a.authors||[]).map(au => {
+    const parts = (au.name || '').trim().split(/\s+/);
+    return parts.length >= 2 ? parts[-1] + ', ' + parts.slice(0,-1).join(' ') : au.name;
+  }).join(' and ');
+  let bib = '@article{' + key + ',\n';
+  bib += '  author = {' + authors_bib + '},\n';
+  bib += '  title = {' + (a.title || '') + '},\n';
+  bib += '  year = {' + year + '},\n';
+  bib += '  journal = {Experimental and Computational Multiphase Flow},\n';
+  if (a.volume) bib += '  volume = {' + a.volume + '},\n';
+  if (a.issue) bib += '  number = {' + a.issue + '},\n';
+  if (a.firstpage && a.lastpage) bib += '  pages = {' + a.firstpage + '-' + a.lastpage + '},\n';
+  if (a.doi) {
+    bib += '  doi = {' + a.doi + '},\n';
+    bib += '  url = {https://doi.org/' + a.doi + '},\n';
+  }
+  if (a.keywords && a.keywords.length) bib += '  keywords = {' + a.keywords.join(', ') + '},\n';
+  bib += '}';
+  return bib;
 }
 
 /* ── Escape ── */
