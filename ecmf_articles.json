@@ -48,7 +48,8 @@
       "Interface interaction",
       "Computational methods and modeling",
       "Particle behaviors and interactions"
-    ]
+    ],
+    "bibtex": "@article{Mahmud2026,\n  author = {Mahmud, Shahriar and Chen, Yuanhang},\n  title = {A comparative analysis between population balance method and interfacial area transfer equation approaches for modeling gas–liquid two-phase flow in a vertical circular pipe},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {3},\n  pages = {313-327},\n  doi = {10.1007/s42757-025-0255-0},\n  url = {https://doi.org/10.1007/s42757-025-0255-0},\n  keywords = {bubble coalescence, bubble breakup, 1D modeling, large L/D pipe simulation, non-Newtonian fluid},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0259-9",
@@ -103,7 +104,8 @@
     "research_area": [
       "Computational methods and modeling",
       "Multiphase turbulence mechanisms"
-    ]
+    ],
+    "bibtex": "@article{Kamble2026,\n  author = {Kamble, Vikrant and Fröhlich, Jochen and Rzehak, Roland},\n  title = {Eulerian simulation of premixed submerged multiphase turbulent jets},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {3},\n  pages = {328-360},\n  doi = {10.1007/s42757-025-0259-9},\n  url = {https://doi.org/10.1007/s42757-025-0259-9},\n  keywords = {dispersed multiphase flow, Euler–Euler two-fluid model, closure relations, turbulent jet, CFD simulation, model validation},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0253-2",
@@ -168,7 +170,8 @@
       "Interface interaction",
       "Heat transfers",
       "Phase changes"
-    ]
+    ],
+    "bibtex": "@article{Tobe2026,\n  author = {Tobe, Mohammed Hirpho and Li, Xiao-Bin and Zhang, Hong-Na and Li, Feng-Chen},\n  title = {Numerical study of bubble dynamics and heat transfer characteristics in pool boiling manipulated by the electrowetting effect},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {3},\n  pages = {361-374},\n  doi = {10.1007/s42757-025-0253-2},\n  url = {https://doi.org/10.1007/s42757-025-0253-2},\n  keywords = {pool boiling, electrowetting (EW), bubble dynamics, phase field, numerical simulation},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0250-5",
@@ -247,7 +250,8 @@
       "Computational methods and modeling",
       "Interface interaction",
       "Granular flows"
-    ]
+    ],
+    "bibtex": "@article{Shen2026,\n  author = {Shen, Mengsi and Lin, Meng and Yang, Yanhua and Li, Wei and Zhao, Pengcheng and Liu, Zijing},\n  title = {Evaluation of source and sink models in the one-group interfacial area transport equation of small pipes for simulating upward bubbly flow with one-dimensional two-fluid model-based code},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {3},\n  pages = {375-394},\n  doi = {10.1007/s42757-025-0250-5},\n  url = {https://doi.org/10.1007/s42757-025-0250-5},\n  keywords = {interfacial area transport equation (IATE), one-dimensional two-fluid model (1D-TFM), source and sink models, accurateness, generality},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0257-y",
@@ -336,7 +340,8 @@
       "Measurement techniques",
       "Computational methods and modeling",
       "Interface interaction"
-    ]
+    ],
+    "bibtex": "@article{Brantson2026,\n  author = {Brantson, Eric Thompson and Abdulkadir, Mukhtar and Epelle, Emmanuel and Adjei, Francis and Issaka, Fuseini Naziru and Iyiola, Zainab Ololade and Joel, Adu-Awuku and Liu, Nannan and Ntebu, Laliri Bright},\n  title = {Modeling of spherical cap bubble flow patterns in a vertical pipeline using experimental wire mesh sensor data},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {3},\n  pages = {395-419},\n  doi = {10.1007/s42757-025-0257-y},\n  url = {https://doi.org/10.1007/s42757-025-0257-y},\n  keywords = {wire mesh sensor (WMS), spherical cap bubble (SCB), explainable artificial intelligence, support vector machine (SVM), pressure drop, convolutional neural network (CNN)},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0246-1",
@@ -392,7 +397,8 @@
       "Computational methods and modeling",
       "Multiphase vortex dynamics",
       "Measurement techniques"
-    ]
+    ],
+    "bibtex": "@article{Li2026,\n  author = {Li, Jing and Li, Changying and Liu, Chunbao},\n  title = {Integration bionic design of cavitation flow control for a hydrodynamic torque converter: CFD simulation and multiobjective optimization strategy},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {3},\n  pages = {420-436},\n  doi = {10.1007/s42757-025-0246-1},\n  url = {https://doi.org/10.1007/s42757-025-0246-1},\n  keywords = {cavitation, hydrodynamic torque converter, bionic suppression, leading-edge tubercles, flow control},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0248-z",
@@ -454,7 +460,8 @@
     "research_area": [
       "Interface interaction",
       "Measurement techniques"
-    ]
+    ],
+    "bibtex": "@article{Dadvand2026,\n  author = {Dadvand, Abdolrahman and Kadivar, Ebrahim and Bapir, Saman A. and Manmi, Kawa M. A. and Moctar, Ould el},\n  title = {Experimental and numerical study of the dynamics of a laser-induced cavitation bubble between two parallel walls: Effect of confinement and viscosity},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {3},\n  pages = {437-456},\n  doi = {10.1007/s42757-025-0248-z},\n  url = {https://doi.org/10.1007/s42757-025-0248-z},\n  keywords = {finite element method (FEM), micropolar flow, radiation, micro-gyration, porous plate},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0240-7",
@@ -520,7 +527,8 @@
     "research_area": [
       "Multiphase vortex dynamics",
       "Computational methods and modeling"
-    ]
+    ],
+    "bibtex": "@article{Zhao2026,\n  author = {Zhao, Tong and Xu, Keke and Wang, Zhilong and Sun, Bo and Pang, Chaofan and Prayitno, Yosephus Ardean Kurnianto},\n  title = {Clarification of the influence of both deflector angle <i>θ</i><sub>1</sub> and cutting teeth arrangement angle <i>θ</i><sub>2</sub> on the aeration performance of the cyclone aerator},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {3},\n  pages = {457-472},\n  doi = {10.1007/s42757-025-0240-7},\n  url = {https://doi.org/10.1007/s42757-025-0240-7},\n  keywords = {deflector angle, cutting teeth arrangement angle, cyclone aerator},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0272-z",
@@ -573,7 +581,8 @@
       "Interface interaction",
       "Multiphase turbulence mechanisms",
       "Multiphase flow dynamics"
-    ]
+    ],
+    "bibtex": "@article{Hong2026,\n  author = {Hong, Sungje and Schlegel, Joshua P. and Sharma, Subash L.},\n  title = {Impact of bubble-induced turbulence on two-phase flow dynamics at high void fraction in a large diameter channel},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {3},\n  pages = {473-504},\n  doi = {10.1007/s42757-025-0272-z},\n  url = {https://doi.org/10.1007/s42757-025-0272-z},\n  keywords = {interfacial area transport equation (IATE), beyond bubbly flows, bubble-induced turbulence (BIT), large diameter pipe},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0238-6",
@@ -629,7 +638,8 @@
       "Computational methods and modeling",
       "Particle behaviors and interactions",
       "Multiphase turbulence mechanisms"
-    ]
+    ],
+    "bibtex": "@article{El-Emam2026,\n  author = {El-Emam, Mahmoud A. and Zhou, Ling and Yasser, Eman},\n  title = {Comparative analysis of numerical algorithms for modeling complex solid‒liquid flow in a vertical conveying system with ceramic and expanded polystyrene particles},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {3},\n  pages = {505-523},\n  doi = {10.1007/s42757-024-0238-6},\n  url = {https://doi.org/10.1007/s42757-024-0238-6},\n  keywords = {two-phase flow, CFD–DEM/DPM, turbulent motion dynamics, hydraulic conveying systems, numerical validation},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0237-7",
@@ -681,7 +691,8 @@
     "research_area": [
       "Interface interaction",
       "Computational methods and modeling"
-    ]
+    ],
+    "bibtex": "@article{Yang2026,\n  author = {Yang, Ziyi and Zhang, Shihuan and Pang, Mingjun},\n  title = {Evolutionary analysis of typical characteristics for a single bubble rising in shear-thinning viscoelastic liquids},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {3},\n  pages = {524-556},\n  doi = {10.1007/s42757-024-0237-7},\n  url = {https://doi.org/10.1007/s42757-024-0237-7},\n  keywords = {viscoelastic fluid, bubble dynamics, characteristic parameter evolution, direct numerical simulation},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0264-z",
@@ -749,7 +760,8 @@
       "Measurement techniques",
       "Multiphase flow visualization",
       "Multiphase flow regimes"
-    ]
+    ],
+    "bibtex": "@article{Santana2026,\n  author = {Santana, Ana Luiza B. and Reginaldo, Natan S. and Neto, Moisés A. Marcelino and Silva, Marco J. da and Santos, Eduardo N. dos and Morales, Rigoberto E. M.},\n  title = {Image-based technique for measuring liquid-film velocity profile in annular flows},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {3},\n  pages = {557-574},\n  doi = {10.1007/s42757-025-0264-z},\n  url = {https://doi.org/10.1007/s42757-025-0264-z},\n  keywords = {annular flow, phase correlation, image registration, flow measurement},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0271-0",
@@ -818,7 +830,8 @@
       "Heat transfers",
       "Phase changes",
       "Multiphase flow regimes"
-    ]
+    ],
+    "bibtex": "@article{Chen2026,\n  author = {Chen, Chao-Guo and Wang, Yan and Li, Xiao-Bin and Zhang, Hong-Na and Li, Feng-Chen},\n  title = {Numerical investigation and acoustic detection of flow boiling regimes in a helical tube},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {3},\n  pages = {575-591},\n  doi = {10.1007/s42757-025-0271-0},\n  url = {https://doi.org/10.1007/s42757-025-0271-0},\n  keywords = {boiling acoustics (BA), flow regime identification, convolutional neural network (CNN), helical tube flow boiling, noise-robust classification},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0265-y",
@@ -877,7 +890,8 @@
       "Computational methods and modeling",
       "Multiphase vortex dynamics",
       "Disperse dynamics"
-    ]
+    ],
+    "bibtex": "@article{Salvador2026,\n  author = {Salvador, Francisco Javier and Carreres, Marcos and Agulló, Alicia Muñoz and Demoulin, François-Xavier},\n  title = {Numerical simulation of liquid sheet formation and primary atomization in a simplex pressure-swirl atomizer through a VOF-LES approach},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {3},\n  pages = {592-617},\n  doi = {10.1007/s42757-025-0265-y},\n  url = {https://doi.org/10.1007/s42757-025-0265-y},\n  keywords = {internal flow, primary atomization, pressure-swirl atomizer, Large Eddy Simulation (LES), Volume of Fluid (VOF)},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0256-z",
@@ -954,7 +968,8 @@
       "Interface interaction",
       "Computational methods and modeling",
       "Multiphase flow dynamics"
-    ]
+    ],
+    "bibtex": "@article{Xiong2026,\n  author = {Xiong, Chen and Zhang, Hong and Liu, Peizhuo and Xu, Na and Ma, Xiang and Zhang, Yonghai and Zhang, Laiqiang},\n  title = {Improved lattice Boltzmann model for realistic multicomponent gas–liquid two-phase flow and its application to slug flow in T-shaped microchannels},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {3},\n  pages = {618-634},\n  doi = {10.1007/s42757-025-0256-z},\n  url = {https://doi.org/10.1007/s42757-025-0256-z},\n  keywords = {microchannel, multiphase multicomponent, lattice Boltzmann method, pseudopotential model, bubble flow},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0252-3",
@@ -1007,7 +1022,8 @@
       "Interface interaction",
       "Multiphase flow dynamics",
       "Computational methods and modeling"
-    ]
+    ],
+    "bibtex": "@article{Kyrloglou2026,\n  author = {Kyrloglou, Apostolos and Fritsching, Udo},\n  title = {An open-source solver for two-phase viscoelastic fluid flow with sharp interface advection in OpenFOAM},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {3},\n  pages = {635-641},\n  doi = {10.1007/s42757-025-0252-3},\n  url = {https://doi.org/10.1007/s42757-025-0252-3},\n  keywords = {multiphase flow, viscoelasticity, viscoelastic two-phase flow, OpenFOAM, volume-of-fluid},\n}"
   },
   {
     "doi": "10.1007/s42757-026-0299-9",
@@ -1079,7 +1095,8 @@
     "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-026-0299-9.pdf",
     "research_area": [
       "Particle behaviors and interactions"
-    ]
+    ],
+    "bibtex": "@article{Sun2026,\n  author = {Sun, Qi and Wang, Xiaozhong and Shi, Lei and Peng, Wei},\n  title = {Resuspension of graphite dust from a wall under shear flow in HTGRs based on DEM simulations and AFM measurements},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {3},\n  pages = {642-653},\n  doi = {10.1007/s42757-026-0299-9},\n  url = {https://doi.org/10.1007/s42757-026-0299-9},\n  keywords = {high-temperature gas-cooled reactors (HTGRs), particle resuspension, atomic force microscope, discrete element method (DEM)},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0282-x",
@@ -1120,7 +1137,8 @@
     "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0282-x.pdf",
     "research_area": [
       "Disperse dynamics"
-    ]
+    ],
+    "bibtex": "@misc{Dong2026,\n  author = {Dong, Jingliang and Xi, Jinxiang},\n  title = {Editorial from Guest Editors of Special Issue on Advancements in Modelling Aerosol Science for Drug Delivery and Health Care},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {2},\n  pages = {205-206},\n  doi = {10.1007/s42757-025-0282-x},\n  url = {https://doi.org/10.1007/s42757-025-0282-x},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0273-y",
@@ -1168,7 +1186,8 @@
       "Particle behaviors and interactions",
       "Multiphase turbulence mechanisms",
       "Computational methods and modeling"
-    ]
+    ],
+    "bibtex": "@article{Anvari2026,\n  author = {Anvari, Amirmasoud and Ahmadi, Goodarz},\n  title = {Simulating respiratory droplet dispersion in ventilated office spaces: Effects of particle size and ventilation rate},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {2},\n  pages = {207-220},\n  doi = {10.1007/s42757-025-0273-y},\n  url = {https://doi.org/10.1007/s42757-025-0273-y},\n  keywords = {particle concentration, <i>k</i>–<i>kl</i>–<i>ω</i> turbulence model, Lagrangian method, discrete random walk (DRW) model, ventilation system, computational fluid dynamics (CFD)},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0249-y",
@@ -1228,7 +1247,8 @@
       "Particle behaviors and interactions",
       "Computational methods and modeling",
       "Disperse dynamics"
-    ]
+    ],
+    "bibtex": "@article{Dastoorian2026,\n  author = {Dastoorian, Farnia and Kozinski, Janusz and Behzadfar, Ehsan and Pakzad, Leila},\n  title = {Impact of COPD breathing profile and airflow relative humidity on drug delivery in mouth–throat airway through pMDIs: <i>In vitro</i> and CFD studies},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {2},\n  pages = {221-239},\n  doi = {10.1007/s42757-025-0249-y},\n  url = {https://doi.org/10.1007/s42757-025-0249-y},\n  keywords = {pressurized metered-dose inhaler (pMDI), computational fluid dynamics (CFD), chronic obstructive pulmonary disease (COPD), inhalation profile, relative humidity (RH), deposited particle size distribution},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0228-8",
@@ -1325,7 +1345,8 @@
     "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0228-8.pdf",
     "research_area": [
       "Particle behaviors and interactions"
-    ]
+    ],
+    "bibtex": "@article{Ma2026,\n  author = {Ma, Ruiping and Yang, Feilun and Lou, Miao and Wang, Yusheng and Hu, Zhenzhen and Gong, Minjie and Xing, Tao Daniel and Cheng, Shaokoon and Zheng, Guoxi and Dong, Jingliang and Zhang, Ya},\n  title = {Quantification of house dust mite deposition in the paranasal cavities following functional endoscopic sinus surgery},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {2},\n  pages = {240-251},\n  doi = {10.1007/s42757-024-0228-8},\n  url = {https://doi.org/10.1007/s42757-024-0228-8},\n  keywords = {house dust mites (HDM), particle deposition, post-FESS, paranasal cavities, numerical simulation},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0207-0",
@@ -1388,7 +1409,8 @@
     "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0207-0.pdf",
     "research_area": [
       "Computational methods and modeling"
-    ]
+    ],
+    "bibtex": "@article{Khamooshi2026,\n  author = {Khamooshi, Mehrdad and Salati, Hana and Gregory, Shaun D. and Vahaj, Sara and Inthavong, Kiao},\n  title = {Computational fluid dynamics simulation of complete nasal saline irrigation in pre- and post-functional endoscopic surgery: A comparative analysis},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {2},\n  pages = {252-261},\n  doi = {10.1007/s42757-024-0207-0},\n  url = {https://doi.org/10.1007/s42757-024-0207-0},\n  keywords = {computational fluid dynamics (CFD), chronic rhinosinusitis, nasal irrigation, volume of fluid (VOF)},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0266-x",
@@ -1472,7 +1494,8 @@
     "research_area": [
       "Particle behaviors and interactions",
       "Disperse dynamics"
-    ]
+    ],
+    "bibtex": "@article{Mišík2026,\n  author = {Mišík, Ondrej and Prinz, František and Elcner, Jakub and Lázňovský, Jakub and Bělka, Miloslav and Juren, Tomáš and Jedelsky, Jan and Lízal, František},\n  title = {Challenges of infant pulmonary drug delivery: Aerosol deposition during realistic breathing},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {2},\n  pages = {262-275},\n  doi = {10.1007/s42757-025-0266-x},\n  url = {https://doi.org/10.1007/s42757-025-0266-x},\n  keywords = {infant, airways, inhalation, aerosol deposition, computational fluid dynamics},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0262-1",
@@ -1526,7 +1549,8 @@
       "Phase changes",
       "Disperse dynamics",
       "Particle behaviors and interactions"
-    ]
+    ],
+    "bibtex": "@article{Talaat2026,\n  author = {Talaat, Mohamed and Si, Xiuhua A. and Xi, Jinxiang},\n  title = {Effects of applied spray mass on evaporation rate and deposition distribution of aerosol droplets in the respiratory tract},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {2},\n  pages = {276-294},\n  doi = {10.1007/s42757-025-0262-1},\n  url = {https://doi.org/10.1007/s42757-025-0262-1},\n  keywords = {metered-dose inhaler (MDI), evaporation, thermohumidity, pulmonary drug delivery, drug-based deposition},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0267-9",
@@ -1588,7 +1612,8 @@
       "Particle behaviors and interactions",
       "Granular flows",
       "Disperse dynamics"
-    ]
+    ],
+    "bibtex": "@article{Huang2026,\n  author = {Huang, Xinlei and Paul, Akshoy Ranjan and Mandal, Prashanta Kumar and Saha, Suvash C.},\n  title = {Transport and deposition of pharmaceutical aerosols in a helium–oxygen mixture in a CT-based nose-to-lung respiratory tract},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {2},\n  pages = {295-312},\n  doi = {10.1007/s42757-025-0267-9},\n  url = {https://doi.org/10.1007/s42757-025-0267-9},\n  keywords = {pharmaceutical aerosol, computational fluid–particle dynamics, particle-laden flow, targeted delivery, human respiratory tract, health},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0275-9",
@@ -1680,7 +1705,8 @@
     "research_area": [
       "Computational methods and modeling",
       "Multiphase flow dynamics"
-    ]
+    ],
+    "bibtex": "@article{Zhang2026,\n  author = {Zhang, Xiaoxi and Tu, Jiyuan and Hibiki, Takashi and Gui, Nan and Yang, Xingtuan and Jiang, Shengyao},\n  title = {Innovative applications and technological breakthroughs of artificial intelligence in complex multiphase flow systems: A review},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {1},\n  pages = {1-20},\n  doi = {10.1007/s42757-025-0275-9},\n  url = {https://doi.org/10.1007/s42757-025-0275-9},\n  keywords = {multiphase flow, artificial intelligence (AI), physics-informed neural networks (PINNs), flow regime recognition, hybrid modeling},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0244-3",
@@ -1740,7 +1766,8 @@
       "Particle behaviors and interactions",
       "Interface interaction",
       "Multiphase flow dynamics"
-    ]
+    ],
+    "bibtex": "@article{Yang2026,\n  author = {Yang, Yutong and Russell, Thomas and Carageorgos, Themis and Bedrikovetsky, Pavel},\n  title = {Explaining the solution chemistry dependence of particle detachment by capillary forces},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {1},\n  pages = {21-34},\n  doi = {10.1007/s42757-025-0244-3},\n  url = {https://doi.org/10.1007/s42757-025-0244-3},\n  keywords = {colloid detachment, two-phase flow, energy barrier, reattachment, visualization experiments, microfluidics},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0226-x",
@@ -1792,7 +1819,8 @@
     "research_area": [
       "Particle behaviors and interactions",
       "Interface interaction"
-    ]
+    ],
+    "bibtex": "@article{Islamova2026,\n  author = {Islamova, Anastasia G. and Shlegel, Nikita E. and Strizhak, Pavel A.},\n  title = {Characteristics of newly formed child droplets in the collisions of slurry droplets with solid particles},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {1},\n  pages = {35-46},\n  doi = {10.1007/s42757-024-0226-x},\n  url = {https://doi.org/10.1007/s42757-024-0226-x},\n  keywords = {slurry, particle, droplet, collision, regime, child droplet},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0254-1",
@@ -1846,7 +1874,8 @@
       "Interface interaction",
       "Granular flows",
       "Computational methods and modeling"
-    ]
+    ],
+    "bibtex": "@article{Hong2026,\n  author = {Hong, Sungje and Schlegel, Joshua. P. and Sharma, Subash L.},\n  title = {Evaluation of two-group IATE coupling with PBE for beyond bubbly flows in a large diameter pipe},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {1},\n  pages = {47-71},\n  doi = {10.1007/s42757-025-0254-1},\n  url = {https://doi.org/10.1007/s42757-025-0254-1},\n  keywords = {S-Gamma (<i>S</i><sub><i>γ</i></sub>), interfacial area transport equation (IATE), population balance, beyond bubbly flows, large-diameter pipe},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0247-0",
@@ -1902,7 +1931,8 @@
     "research_area": [
       "Heat transfers",
       "Phase changes"
-    ]
+    ],
+    "bibtex": "@article{Mohassel2026,\n  author = {Mohassel, Hosein and Koşar, Ali and Sadaghiani, Ali},\n  title = {Numerical investigation of dropwise condensation on plain and functional surfaces},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {1},\n  pages = {72-86},\n  doi = {10.1007/s42757-025-0247-0},\n  url = {https://doi.org/10.1007/s42757-025-0247-0},\n  keywords = {dropwise condensation (DWC), hydrophobic surface, superhydrophobic surface, wettability, droplet distribution},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0245-2",
@@ -1960,7 +1990,8 @@
       "Gas-liquid/particle flows",
       "Multiphase flow dynamics",
       "Measurement techniques"
-    ]
+    ],
+    "bibtex": "@article{Mishra2026,\n  author = {Mishra, Subhabrata and Mahanta, Jyotirmayee and Dash, Swagatika and Beuria, Prabhas Chandra},\n  title = {Minimum fluidization velocity of three mineralogically different iron ore tailing samples: Comparison of empirical correlations and hydrodynamic study},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {1},\n  pages = {87-102},\n  doi = {10.1007/s42757-025-0245-2},\n  url = {https://doi.org/10.1007/s42757-025-0245-2},\n  keywords = {minimum fluidization velocity, low-grade iron ore, tailing, fluidized bed},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0231-0",
@@ -2014,7 +2045,8 @@
     "research_area": [
       "Multiphase vortex dynamics",
       "Particle behaviors and interactions"
-    ]
+    ],
+    "bibtex": "@article{El-Emam2026,\n  author = {El-Emam, Mahmoud A. and Hu, Ziqiang and Zhou, Ling},\n  title = {Separation enhancement of conventional and square cyclones through the tailored inlet and vortex finder configurations using different particle characteristics},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {1},\n  pages = {103-138},\n  doi = {10.1007/s42757-024-0231-0},\n  url = {https://doi.org/10.1007/s42757-024-0231-0},\n  keywords = {cyclone investigations, gas–particle flow, turbulent flow dynamics, separation performance, CFD–DEM coupling},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0219-9",
@@ -2068,7 +2100,8 @@
     "research_area": [
       "Interface interaction",
       "Porous media"
-    ]
+    ],
+    "bibtex": "@article{Chen2026,\n  author = {Chen, Shih Wen and Kermani, Navid Niknafs and Simacek, Pavel and Advani, Suresh G.},\n  title = {Characterization of bubble mobility during flow through fibrous porous media},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {1},\n  pages = {139-151},\n  doi = {10.1007/s42757-024-0219-9},\n  url = {https://doi.org/10.1007/s42757-024-0219-9},\n  keywords = {multiphase flow, porous media, bubble dynamics, fabric weave, void minimization},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0217-y",
@@ -2126,7 +2159,8 @@
     "research_area": [
       "Multiphase flow dynamics",
       "Computational methods and modeling"
-    ]
+    ],
+    "bibtex": "@article{Sun2026,\n  author = {Sun, Zhiqun and Li, Qiang and Zhang, Xuewei and Qu, Pu and Lu, Lin},\n  title = {Underwater interior ballistic process mechanism and precursor flow field characteristics based on multiphase flow coupling},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {1},\n  pages = {152-168},\n  doi = {10.1007/s42757-024-0217-y},\n  url = {https://doi.org/10.1007/s42757-024-0217-y},\n  keywords = {underwater interior ballistics, precursor flow, bidirectionally coupled computational method, initial flow field, multiphase flow coupling},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0233-y",
@@ -2183,7 +2217,8 @@
     "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0233-y.pdf",
     "research_area": [
       "Interface interaction"
-    ]
+    ],
+    "bibtex": "@article{Ding2026,\n  author = {Ding, Qingmiao and Li, Xiaoman and Cui, Yanyu and Liu, Cuiwei and Shan, Yunlong},\n  title = {Migration orientation of the laser-induced cavitation bubble near a vertically rigid boundary and free surface},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {1},\n  pages = {169-181},\n  doi = {10.1007/s42757-024-0233-y},\n  url = {https://doi.org/10.1007/s42757-024-0233-y},\n  keywords = {cavitation bubble, rigid boundary, free surface, Kelvin impulse, migration mechanism},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0243-4",
@@ -2235,7 +2270,8 @@
     "research_area": [
       "Interface interaction",
       "Computational methods and modeling"
-    ]
+    ],
+    "bibtex": "@article{Khosroshahi2026,\n  author = {Khosroshahi, Alireza Esfandiari and Dadvand, Abdolrahman and Manmi, Kawa Mustafa Aziz},\n  title = {A collapsing bubble-based micropump for viscous liquids},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {1},\n  pages = {182-203},\n  doi = {10.1007/s42757-025-0243-4},\n  url = {https://doi.org/10.1007/s42757-025-0243-4},\n  keywords = {pumping effect, viscous liquid, bubble jet, cone hole, volume of fluid, mass flow rate},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0242-5",
@@ -2278,7 +2314,8 @@
       "Multiphase flow dynamics",
       "Flow instability",
       "Particle behaviors and interactions"
-    ]
+    ],
+    "bibtex": "@article{Ushioku2025,\n  author = {Ushioku, Takahiro and Yoshimura, Hiroaki},\n  title = {Unsteady behavior of cloud cavitation and its induced shock waves: Part 2: Two-dimensional multiphase flow analysis},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {4},\n  pages = {389-408},\n  doi = {10.1007/s42757-025-0242-5},\n  url = {https://doi.org/10.1007/s42757-025-0242-5},\n  keywords = {cloud cavitation, shock wave, smoothed particle hydrodynamics (SPH) method, comparative study},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0235-9",
@@ -2333,7 +2370,8 @@
     "research_area": [
       "Computational methods and modeling",
       "Multiphase flow dynamics"
-    ]
+    ],
+    "bibtex": "@article{Tusar2025,\n  author = {Tusar, Mehedi Hasan and Bhowmik, Palash K. and Kobayashi, Kazuma and Alam, Syed Bahauddin and Usman, Shoaib},\n  title = {Impact of surface and physical property on multiphase flow in sealed vessel: Liquid dropdown performance},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {4},\n  pages = {409-420},\n  doi = {10.1007/s42757-024-0235-9},\n  url = {https://doi.org/10.1007/s42757-024-0235-9},\n  keywords = {Rayleigh–Taylor (RT) instability, heat pipes, wettability, computational fluid dynamics (CFD), volume of fluid (VOF)},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0214-1",
@@ -2383,7 +2421,8 @@
     "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0214-1.pdf",
     "research_area": [
       "Multiphase flow regimes"
-    ]
+    ],
+    "bibtex": "@article{Azam2025,\n  author = {Azam, Huzaifa and Pao, William and Sallih, Nabihah and Sohail, Muhammad},\n  title = {Passive flow regime identification based on synchrosqueezing wavelet transform and deep learning},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {4},\n  pages = {421-438},\n  doi = {10.1007/s42757-024-0214-1},\n  url = {https://doi.org/10.1007/s42757-024-0214-1},\n  keywords = {flow regime identification, convolutional neural network, scalograms, synchrosqueezing wavelet transform, SHAP},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0215-0",
@@ -2443,7 +2482,8 @@
       "Heat transfers",
       "Interface interaction",
       "Phase changes"
-    ]
+    ],
+    "bibtex": "@article{Wang2025,\n  author = {Wang, Jue and Ouyang, Shifan and Chen, Yongzhong and Dong, Qingming and Wang, Junfeng and Wang, Zhentao},\n  title = {Experimental and LBM simulation study on the effect of bubble departure and bubbles merging on subcooled flow boiling of pure water and surfactant solution},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {4},\n  pages = {439-449},\n  doi = {10.1007/s42757-024-0215-0},\n  url = {https://doi.org/10.1007/s42757-024-0215-0},\n  keywords = {flow boiling, bubble departure, dry spot, heat transfer coefficient (HTC), surfactant},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0195-0",
@@ -2494,7 +2534,8 @@
     "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0195-0.pdf",
     "research_area": [
       "Computational methods and modeling"
-    ]
+    ],
+    "bibtex": "@article{Kamali2025,\n  author = {Kamali, Hossein Ali and Erfanian, Mohammad-Reza and Pasandidehfard, Mahmoud and Rashidi, Mohammad Mehdi},\n  title = {Investigation of hysteresis behavior and critical parameters in ventilated cavitation flows using experiments, simulations, and machine learning},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {4},\n  pages = {450-464},\n  doi = {10.1007/s42757-024-0195-0},\n  url = {https://doi.org/10.1007/s42757-024-0195-0},\n  keywords = {cavitation, hysteresis, machine learning, optimization, XGBoost, ventilation},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0201-6",
@@ -2545,7 +2586,8 @@
     "research_area": [
       "Interface interaction",
       "Computational methods and modeling"
-    ]
+    ],
+    "bibtex": "@article{Xu2025,\n  author = {Xu, Yixiang and Yang, Gang and Xing, Yulin and Hu, Dean},\n  title = {Interface tracking simulation of multifluid flow by ISPH–FVM coupling method},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {4},\n  pages = {465-489},\n  doi = {10.1007/s42757-024-0201-6},\n  url = {https://doi.org/10.1007/s42757-024-0201-6},\n  keywords = {multifluid flow, interface tracking, simulation, ISPH–FVM coupling method, surface tension},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0220-3",
@@ -2601,7 +2643,8 @@
       "Disperse dynamics",
       "Interface interaction",
       "Particle behaviors and interactions"
-    ]
+    ],
+    "bibtex": "@article{Wei2025,\n  author = {Wei, Chen and Adeyemi, Temitayo and Sharma, Jyotsna and Mahmud, Shahriar and Chen, Yuanhang},\n  title = {Investigating gas influx migration, dispersion, and suspension in well control operations: An interfacial area transport perspective},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {4},\n  pages = {490-515},\n  doi = {10.1007/s42757-024-0220-3},\n  url = {https://doi.org/10.1007/s42757-024-0220-3},\n  keywords = {interfacial area transport equation (IATE), gas influx management, two-fluid model (TFM), gas dispersion and suspension, distributed fiber-optic sensing (DFOS)},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0230-1",
@@ -2661,7 +2704,8 @@
     "research_area": [
       "Measurement techniques",
       "Multiphase flow regimes"
-    ]
+    ],
+    "bibtex": "@article{Sarkodie2025,\n  author = {Sarkodie, Kwame and Rees, Andrew Fergusson and Abdulkadir, Mukhtar and Asiedu, Nana Yaw and Quaye, Jonathan Atuquaye and Boakye, Patrick},\n  title = {Novel gas–liquid volumetric flow measurement via non-intrusive optical sensing under upward vertical bubbly flow},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {4},\n  pages = {516-536},\n  doi = {10.1007/s42757-024-0230-1},\n  url = {https://doi.org/10.1007/s42757-024-0230-1},\n  keywords = {gas–liquid flow meter, non-intrusive, optical sensor, vertical upward flow, flow regimes, void fractions},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0211-4",
@@ -2728,7 +2772,8 @@
     "research_area": [
       "Heat transfers",
       "Computational methods and modeling"
-    ]
+    ],
+    "bibtex": "@article{Yu2025,\n  author = {Yu, Rui-Li and Wang, Xiao-Yu and Jiao, Dong-Sheng and Qi, Rui-Di and Wang, Zi-Han and Li, Zhen-Le and Zhu, Qiu-Rui and Xia, Liang-Zhi},\n  title = {Effect of improving the performance of pulsating heat pipes on heat transfer in an extruder},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {4},\n  pages = {537-550},\n  doi = {10.1007/s42757-024-0211-4},\n  url = {https://doi.org/10.1007/s42757-024-0211-4},\n  keywords = {pulsating heat pipe extruder, computational fluid dynamics, heat transfer, multiphase flows, numerical simulation},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0212-3",
@@ -2775,7 +2820,8 @@
     "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0212-3.pdf",
     "research_area": [
       "Heat transfers"
-    ]
+    ],
+    "bibtex": "@article{Raafat2025,\n  author = {Raafat, Philopatir B. and Ibrahim, Fayez N. and Sharaf, Mahmoud Ameen Mahmoud},\n  title = {Characterizing thermal efficiency and entropy generation of Sisko nanofluids in parabolic trough solar collectors: A comparison between three carbon-based nanoparticles},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {4},\n  pages = {551-565},\n  doi = {10.1007/s42757-024-0212-3},\n  url = {https://doi.org/10.1007/s42757-024-0212-3},\n  keywords = {solar energy, parabolic trough solar collector (PTSC), nanofluids, graphene, carbon-based nanomaterials, Sisko nanofluid},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0218-x",
@@ -2823,7 +2869,8 @@
       "Heat transfers",
       "Phase changes",
       "Flow instability"
-    ]
+    ],
+    "bibtex": "@article{Shah2025,\n  author = {Shah, Nishant and Mehta, Hemantkumar B. and Banerjee, Jyotirmay},\n  title = {Dynamics of pressure oscillations in microchannel flow boiling: Insight from wavelet analysis},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {4},\n  pages = {566-581},\n  doi = {10.1007/s42757-024-0218-x},\n  url = {https://doi.org/10.1007/s42757-024-0218-x},\n  keywords = {wavelet analysis, pressure drop signals, subcooled flow boiling, microchannel heat sink (MCHS), flow restrictor (FR)},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0232-z",
@@ -2877,7 +2924,8 @@
     "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0232-z.pdf",
     "research_area": [
       "Particle behaviors and interactions"
-    ]
+    ],
+    "bibtex": "@article{Xu2025,\n  author = {Xu, Chang and Zheng, Xin and Tian, Fengshi and Ding, Feng and Shen, Shifei},\n  title = {A numerical study of the effects of exposure conditions and human movement on cough droplets transmission and deposition},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {4},\n  pages = {582-596},\n  doi = {10.1007/s42757-024-0232-z},\n  url = {https://doi.org/10.1007/s42757-024-0232-z},\n  keywords = {cough droplets transmission, inhalation, deposition, human movement, computational fluid particle dynamics},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0236-8",
@@ -2920,7 +2968,8 @@
     "research_area": [
       "Flow instability",
       "Measurement techniques"
-    ]
+    ],
+    "bibtex": "@article{Ushioku2025,\n  author = {Ushioku, Takahiro and Yoshimura, Hiroaki},\n  title = {Unsteady behavior of cloud cavitation and its induced shock waves: Part 1: Experimental observations and analysis},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {3},\n  pages = {245-257},\n  doi = {10.1007/s42757-024-0236-8},\n  url = {https://doi.org/10.1007/s42757-024-0236-8},\n  keywords = {cloud cavitation, shock wave, shadowgraph method, Schlieren method, submerged water-jet},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0216-z",
@@ -2998,7 +3047,8 @@
     "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0216-z.pdf",
     "research_area": [
       "Porous media"
-    ]
+    ],
+    "bibtex": "@article{Carvalho2025,\n  author = {Carvalho, Violeta and Rodrigues, Nelson and Sousa, Paulo and Pinto, Vânia and Rodrigues, Cristina S. and Shin, Su Ryon and Bañobre-López, Manuel and Minas, Graça and Rodrigues, Raquel O. and Lima, Rui and Teixeira, Senhorinha F. C. F.},\n  title = {Numerical assessment of the hydrogel physical properties’ effect on oxygen gradients in an organ-on-a-chip biosystem},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {3},\n  pages = {258-269},\n  doi = {10.1007/s42757-024-0216-z},\n  url = {https://doi.org/10.1007/s42757-024-0216-z},\n  keywords = {organ-on-a-chip, oxygen distribution, numerical simulations, hydrogels, porous media},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0239-0",
@@ -3043,7 +3093,8 @@
     "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0239-0.pdf",
     "research_area": [
       "Computational methods and modeling"
-    ]
+    ],
+    "bibtex": "@article{Huangfu2025,\n  author = {Huangfu, Zhihao and Deng, An and Tian, Zhao},\n  title = {Modelling air–water flow in vacuum-aided vertical drain},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {3},\n  pages = {270-283},\n  doi = {10.1007/s42757-025-0239-0},\n  url = {https://doi.org/10.1007/s42757-025-0239-0},\n  keywords = {vacuum dewatering, vertical drain, liquid-gas flow, lift depth},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0200-7",
@@ -3099,7 +3150,8 @@
     "research_area": [
       "Particle behaviors and interactions",
       "Computational methods and modeling"
-    ]
+    ],
+    "bibtex": "@article{Wang2025,\n  author = {Wang, Yanru and Peng, Hui and Yin, Zhaoqin and Bao, Fubing and Hou, Likai},\n  title = {Deposition characteristics of ultrafine particles of different shapes in an inertial impactor: CFD-DEM simulations and experiments},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {3},\n  pages = {284-296},\n  doi = {10.1007/s42757-024-0200-7},\n  url = {https://doi.org/10.1007/s42757-024-0200-7},\n  keywords = {non-spherical ultrafine particle, inertial impactor, computational fluid dynamics (CFD), discrete element method (DEM), deposition characteristic, scanning mobility particle sizer (SMPS)},\n}"
   },
   {
     "doi": "10.1007/s42757-023-0162-1",
@@ -3145,7 +3197,8 @@
       "Heat transfers",
       "Phase changes",
       "Measurement techniques"
-    ]
+    ],
+    "bibtex": "@article{Jamialahmadi2025,\n  author = {Jamialahmadi, Amir Ahmad and Nazari, Ahmad and Kayhani, Mohammad Hasan},\n  title = {An experimental study of pool boiling of low concentrated CuO nanofluid on the copper flat surface},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {3},\n  pages = {297-307},\n  doi = {10.1007/s42757-023-0162-1},\n  url = {https://doi.org/10.1007/s42757-023-0162-1},\n  keywords = {CuO–water nanofluid, critical heat flux, nanocoated surface},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0205-2",
@@ -3194,7 +3247,8 @@
       "Computational methods and modeling",
       "Interface interaction",
       "Disperse dynamics"
-    ]
+    ],
+    "bibtex": "@article{Evgenidis2025,\n  author = {Evgenidis, Sotiris P. and Karapantsios, Thodoris D. and Kostoglou, Margaritis},\n  title = {Bubble size effect on electrical signal fluctuations in flow of sub-millimeter bubbles at low void fractions: A simulation study},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {3},\n  pages = {308-322},\n  doi = {10.1007/s42757-024-0205-2},\n  url = {https://doi.org/10.1007/s42757-024-0205-2},\n  keywords = {simulation, electrical conductance, electrical fluctuations, bubbles, bubbly flow, void fraction},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0209-y",
@@ -3244,7 +3298,8 @@
     "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0209-y.pdf",
     "research_area": [
       "Interface interaction"
-    ]
+    ],
+    "bibtex": "@article{Vorobyev2025,\n  author = {Vorobyev, Maksim and Lobanov, Pavel and Chinak, Aleksandr and Kashinsky, Oleg},\n  title = {Effect of flow direction and capillary orientation on the bubble detachment diameter in liquid cross-flow},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {3},\n  pages = {323-335},\n  doi = {10.1007/s42757-024-0209-y},\n  url = {https://doi.org/10.1007/s42757-024-0209-y},\n  keywords = {bubbly flow, bubble formation, cross-flow, bubble detachment regime, coalescence},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0210-5",
@@ -3291,7 +3346,8 @@
       "Multiphase flow dynamics",
       "Computational methods and modeling",
       "Flow instability"
-    ]
+    ],
+    "bibtex": "@article{Zhan2025,\n  author = {Zhan, Meng-Ke and Xie, Cheng-Gang and Shu, Jian-Jun},\n  title = {Scaling rules for multiphase flow in vertical Venturis},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {3},\n  pages = {336-351},\n  doi = {10.1007/s42757-024-0210-5},\n  url = {https://doi.org/10.1007/s42757-024-0210-5},\n  keywords = {multiphase flowmeter, Venturi tube, scaling rule, Eulerian–Eulerian modeling},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0204-3",
@@ -3363,7 +3419,8 @@
       "Computational methods and modeling",
       "Multiphase flow dynamics",
       "Granular flows"
-    ]
+    ],
+    "bibtex": "@article{Liu2025,\n  author = {Liu, Yang and Ouyang, Pengfei and Zhang, Zhaoyang and Xue, Wei and Liu, Weidong and Wang, Yufeng and Zhu, Hao and Xu, Kun and Lu, Jinzhong},\n  title = {Multiphase flow simulation and experimental investigation of product transport during electrolyte jet machining of titanium alloy},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {3},\n  pages = {352-367},\n  doi = {10.1007/s42757-024-0204-3},\n  url = {https://doi.org/10.1007/s42757-024-0204-3},\n  keywords = {multiphase flow simulation, particle track, electrolyte jet machining (EJM), titanium alloy, surface quality},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0224-z",
@@ -3405,7 +3462,8 @@
     "research_area": [
       "Particle behaviors and interactions",
       "Computational methods and modeling"
-    ]
+    ],
+    "bibtex": "@article{Oliveira2025,\n  author = {Oliveira, Ricardo Arbach Fernandes de and Lopes, Gabriela Cantarelli},\n  title = {A new correlation for prediction of drag coefficient on particle agglomerates using CFD},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {3},\n  pages = {368-387},\n  doi = {10.1007/s42757-024-0224-z},\n  url = {https://doi.org/10.1007/s42757-024-0224-z},\n  keywords = {drag coefficient correlation, particle matter, particle agglomerate, computational fluid dynamics (CFD)},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0251-4",
@@ -3437,7 +3495,8 @@
     "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0251-4.pdf",
     "research_area": [
       "Multiphase flow dynamics"
-    ]
+    ],
+    "bibtex": "@misc{Lucas2025,\n  author = {Lucas, Dirk},\n  title = {Message from the Guest Editor of the 19th Multiphase Flow Conference Special Issue},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {2},\n  pages = {149-150},\n  doi = {10.1007/s42757-025-0251-4},\n  url = {https://doi.org/10.1007/s42757-025-0251-4},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0206-1",
@@ -3486,7 +3545,8 @@
     "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0206-1.pdf",
     "research_area": [
       "Computational methods and modeling"
-    ]
+    ],
+    "bibtex": "@article{Frederix2025,\n  author = {Frederix, E. M. A. and Habiyaremye, V. and Tajfirooz, S. and Kuerten, J. G. M.},\n  title = {Extension of the two-fluid model to bubble size distribution moment velocities},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {2},\n  pages = {151-166},\n  doi = {10.1007/s42757-024-0206-1},\n  url = {https://doi.org/10.1007/s42757-024-0206-1},\n  keywords = {method of moments, poly-celerity, two-fluid model, log-normal size distribution},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0213-2",
@@ -3545,7 +3605,8 @@
       "Interface interaction",
       "Particle behaviors and interactions",
       "Multiphase flow dynamics"
-    ]
+    ],
+    "bibtex": "@article{Bürkle2025,\n  author = {Bürkle, Florian and Maestri, Rhandrey and Lecrivain, Gregory and Hampel, Uwe and Büttner, Lars and Czarske, Jürgen},\n  title = {Investigation of the gas and film flow of Taylor bubble in a tube with a short constriction employing 3D particle tracking},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {2},\n  pages = {167-177},\n  doi = {10.1007/s42757-024-0213-2},\n  url = {https://doi.org/10.1007/s42757-024-0213-2},\n  keywords = {Taylor bubble, slug flow, optical flow measurement, adaptive optics},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0203-4",
@@ -3597,7 +3658,8 @@
       "Computational methods and modeling",
       "Disperse dynamics",
       "Interface interaction"
-    ]
+    ],
+    "bibtex": "@article{Blau2025,\n  author = {Blau, Benjamin and Krzeczek, Oscar and Heinrich, Christoph and Klein, Markus},\n  title = {Analysis of water-in-gasoline emulsions via experiments and direct numerical simulations},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {2},\n  pages = {178-196},\n  doi = {10.1007/s42757-024-0203-4},\n  url = {https://doi.org/10.1007/s42757-024-0203-4},\n  keywords = {emulsion, direct numerical simulation (DNS), multiphase flow, water injection, droplet size distribution (DSD)},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0227-9",
@@ -3638,7 +3700,8 @@
     "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0227-9.pdf",
     "research_area": [
       "Computational methods and modeling"
-    ]
+    ],
+    "bibtex": "@article{Porombka2025,\n  author = {Porombka, Paul and Schlottke, Jan},\n  title = {Euler–Euler simulation of multi-regime two-phase flows with thin liquid films},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {2},\n  pages = {197-210},\n  doi = {10.1007/s42757-024-0227-9},\n  url = {https://doi.org/10.1007/s42757-024-0227-9},\n  keywords = {thin film flow, multi-regime model, two-fluid model (TFM), annular flow},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0223-0",
@@ -3691,7 +3754,8 @@
       "Computational methods and modeling",
       "Multiphase flow dynamics",
       "Interface interaction"
-    ]
+    ],
+    "bibtex": "@article{Avgerinos2025,\n  author = {Avgerinos, Nikolaos A. and Neofytou, Panagiotis and Stubos, Athanasios and McKenzie, Lachlan},\n  title = {Numerical assessment of emergency ammonia underwater discharge from a platform supply vessel},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {2},\n  pages = {211-226},\n  doi = {10.1007/s42757-024-0223-0},\n  url = {https://doi.org/10.1007/s42757-024-0223-0},\n  keywords = {computational fluid dynamics (CFD), multiphase flow, green transition, safety assessment, underwater ammonia release, maritime sector},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0241-6",
@@ -3747,7 +3811,8 @@
       "Interface interaction",
       "Computational methods and modeling",
       "Gas-liquid/particle flows"
-    ]
+    ],
+    "bibtex": "@article{Schlegel2025,\n  author = {Schlegel, Fabian and Hänsch, Susann and Krull, Benjamin and Meller, Richard and Kota, Sesi Preetam},\n  title = {Comparison of upper boundary treatments for bubble column simulations with the two-fluid model},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {2},\n  pages = {227-244},\n  doi = {10.1007/s42757-025-0241-6},\n  url = {https://doi.org/10.1007/s42757-025-0241-6},\n  keywords = {multiphase flow, numerical simulation, boundary condition (BC), Euler–Euler method, bubble column},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0190-5",
@@ -3786,7 +3851,8 @@
     "research_area": [
       "Computational methods and modeling",
       "Interface interaction"
-    ]
+    ],
+    "bibtex": "@article{Hibiki2025,\n  author = {Hibiki, Takashi},\n  title = {Two-group drift–flux model and covariance for dispersed two-phase flows},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {1},\n  pages = {1-15},\n  doi = {10.1007/s42757-024-0190-5},\n  url = {https://doi.org/10.1007/s42757-024-0190-5},\n  keywords = {two-fluid model, interfacial drag force, drift–flux model, interfacial area transport, void fraction covariance},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0208-z",
@@ -3839,7 +3905,8 @@
       "Phase changes",
       "Heat transfers",
       "Disperse dynamics"
-    ]
+    ],
+    "bibtex": "@article{Martínez2025,\n  author = {Martínez, María and Martí-Aldaraví, Pedro and Salvador, Francisco Javier and Martínez-Miracle, Enrique Carlos},\n  title = {Transient nozzle flow analysis and near-field characterization of gasoline direct fuel injectors under different surrogate fuel and flash boiling conditions},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {1},\n  pages = {16-36},\n  doi = {10.1007/s42757-024-0208-z},\n  url = {https://doi.org/10.1007/s42757-024-0208-z},\n  keywords = {gasoline direct injection (GDi), computational fluid dynamics (CFD), nozzle flow, surrogate fuels, flash boiling, spray collapse},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0225-y",
@@ -3897,7 +3964,8 @@
     "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0225-y.pdf",
     "research_area": [
       "Multiphase flow dynamics"
-    ]
+    ],
+    "bibtex": "@article{Zhang2025,\n  author = {Zhang, Xiaoxi and Duan, Sizhe and Gao, Baofeng and Gui, Nan and Wang, Zheng-Xiong and Tu, Jiyuan},\n  title = {Effects of critical energy on the excitation of 2/1 fishbone-like modes during tearing modes in a generalized multiphase flow system},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {1},\n  pages = {37-49},\n  doi = {10.1007/s42757-024-0225-y},\n  url = {https://doi.org/10.1007/s42757-024-0225-y},\n  keywords = {multiphase flow, fishbone-like modes, tearing modes, trapped energetic ions, tokamak plasma},\n}"
   },
   {
     "doi": "10.1007/s42757-023-0180-z",
@@ -3953,7 +4021,8 @@
       "Multiphase flow regimes",
       "Interface interaction",
       "Multiphase flow dynamics"
-    ]
+    ],
+    "bibtex": "@article{Arabi2025,\n  author = {Arabi, Abderraouf and Salhi, Yacine and Zenati, Youcef and Si-Ahmed, El-Khider and Legrand, Jack},\n  title = {Analysis of horizontal gas–liquid intermittent flow subregime transitions: Physical mechanisms and flow maps},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {1},\n  pages = {50-66},\n  doi = {10.1007/s42757-023-0180-z},\n  url = {https://doi.org/10.1007/s42757-023-0180-z},\n  keywords = {gas–liquid two-phase flow, horizontal intermittent flow, subregimes, liquid slug aeration physical mechanisms, flow maps},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0191-4",
@@ -4003,7 +4072,8 @@
     "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0191-4.pdf",
     "research_area": [
       "Computational methods and modeling"
-    ]
+    ],
+    "bibtex": "@article{Li2025,\n  author = {Li, Peitong and Li, Xiaoyu and Ke, Bowen and Jin, Hui},\n  title = {A method to investigate the variable physical properties of the boundary layer for the supercritical water flat plate model},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {1},\n  pages = {67-81},\n  doi = {10.1007/s42757-024-0191-4},\n  url = {https://doi.org/10.1007/s42757-024-0191-4},\n  keywords = {friction coefficient, boundary layer, supercritical water (SCW), flat plate, laminar flow},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0192-3",
@@ -4055,7 +4125,8 @@
       "Computational methods and modeling",
       "Granular flows",
       "Measurement techniques"
-    ]
+    ],
+    "bibtex": "@article{Bantu2025,\n  author = {Bantu, Augustin Bitangilayi and Bracamontes, Laura A. Ibarra and Gamboa, Gonzalo Viramontes and Reyes, Cristian Cáliz},\n  title = {Modeling multiphasic flow and bubbling nonfluidized beds in water-filled sediment},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {1},\n  pages = {82-96},\n  doi = {10.1007/s42757-024-0192-3},\n  url = {https://doi.org/10.1007/s42757-024-0192-3},\n  keywords = {Lake Kivu, nonfluidized bed, multiphase flow, experimental study, optical measurements},\n}"
   },
   {
     "doi": "10.1007/s42757-023-0175-9",
@@ -4115,7 +4186,8 @@
     "research_area": [
       "Heat transfers",
       "Phase changes"
-    ]
+    ],
+    "bibtex": "@article{Huang2025,\n  author = {Huang, Zequan and Zhang, Wenchao and Sun, Jianchuang and Jin, Guangyuan and Cui, Jun and Cai, Weihua},\n  title = {Numerical study on thermal-hydraulic characteristics of petal-shaped fuel rod assembly under cosine heating conditions},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {1},\n  pages = {97-108},\n  doi = {10.1007/s42757-023-0175-9},\n  url = {https://doi.org/10.1007/s42757-023-0175-9},\n  keywords = {small-scale nuclear reactor, petal-shaped fuel assembly, subcooled boiling, critical heat flux (CHF), thermal-hydraulic characteristics, cosine heating conditions},\n}"
   },
   {
     "doi": "10.1007/s42757-023-0169-7",
@@ -4158,7 +4230,8 @@
     "research_area": [
       "Flow instability",
       "Multiphase flow regimes"
-    ]
+    ],
+    "bibtex": "@article{Kumar2025,\n  author = {Kumar, Ashutosh and Sharma, Mukesh},\n  title = {Effect of liquid–liquid flows on flow pattern, pressure drop, wall shear drop, and strain rate drop through sudden contraction and expansion pipe coupled with return bend: A CFD analysis},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {1},\n  pages = {109-120},\n  doi = {10.1007/s42757-023-0169-7},\n  url = {https://doi.org/10.1007/s42757-023-0169-7},\n  keywords = {liquid–liquid flow, sudden contraction and expansion pipe with return bend, pressure drop, wall shear drop, strain rate drop},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0234-x",
@@ -4217,7 +4290,8 @@
     "research_area": [
       "Heat transfers",
       "Phase changes"
-    ]
+    ],
+    "bibtex": "@article{Albdour2025,\n  author = {Albdour, Samah A. and Osman, Sameer and Hassan, Mubashir and Yoon, Ho Joon and Afgan, Imran and Addad, Yacine},\n  title = {Thermal performance analysis of reflux condensation in vertical tubes via pure steam},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {1},\n  pages = {121-132},\n  doi = {10.1007/s42757-024-0234-x},\n  url = {https://doi.org/10.1007/s42757-024-0234-x},\n  keywords = {condensation, reflux condensation, steam generator (SG), TRACE code, vertical tube},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0199-3",
@@ -4257,7 +4331,8 @@
     "research_area": [
       "Computational methods and modeling",
       "Multiphase flow dynamics"
-    ]
+    ],
+    "bibtex": "@article{Farag2025,\n  author = {Farag, Wael A.},\n  title = {Virtual multiphase flow meter for high gas/oil ratios and water-cut reservoirs via ensemble machine learning},\n  year = {2025},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {7},\n  number = {1},\n  pages = {133-148},\n  doi = {10.1007/s42757-024-0199-3},\n  url = {https://doi.org/10.1007/s42757-024-0199-3},\n  keywords = {multiphase virtual flow meter, oil and gas, ensemble machine learning, CO<sub>2</sub> emission reduction, oil field portability test, SDG13 climate action},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0202-5",
@@ -4325,7 +4400,8 @@
     "research_area": [
       "Multiphase flow dynamics",
       "Computational methods and modeling"
-    ]
+    ],
+    "bibtex": "@article{Wu2024,\n  author = {Wu, Mengqi and Zhang, Jinsong and Gui, Nan and Zou, Quan and Yang, Xingtuan and Tu, Jiyuan and Jiang, Shengyao and Liu, Zhiyong},\n  title = {Advances in the modeling of multiphase flows and their application in nuclear engineering—A review},\n  year = {2024},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {6},\n  number = {4},\n  pages = {287-352},\n  doi = {10.1007/s42757-024-0202-5},\n  url = {https://doi.org/10.1007/s42757-024-0202-5},\n  keywords = {multiphase flow, nuclear engineering, critical heat flux, microscale and nanoscale, neural network, lattice Boltzmann method},\n}"
   },
   {
     "doi": "10.1007/s42757-023-0182-x",
@@ -4372,7 +4448,8 @@
     "research_area": [
       "Interface interaction",
       "Multiphase flow dynamics"
-    ]
+    ],
+    "bibtex": "@article{Mahmoudi2024,\n  author = {Mahmoudi, Sadra and Saeedipour, Mahdi and Hlawitschka, Mark W.},\n  title = {Bubble dynamics under the influence of the Marangoni force induced by a stratified field of contamination},\n  year = {2024},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {6},\n  number = {4},\n  pages = {353-364},\n  doi = {10.1007/s42757-023-0182-x},\n  url = {https://doi.org/10.1007/s42757-023-0182-x},\n  keywords = {bubble hydrodynamics, bubble column, Marangoni flow, liquid–gas flow, computational fluid dynamics},\n}"
   },
   {
     "doi": "10.1007/s42757-023-0184-8",
@@ -4418,7 +4495,8 @@
       "Interface interaction",
       "Particle behaviors and interactions",
       "Disperse dynamics"
-    ]
+    ],
+    "bibtex": "@article{Sommerfeld2024,\n  author = {Sommerfeld, Martin and Taborda, Manuel A.},\n  title = {Collision rates of small solid particles with rigid spherical and spheroidal bubbles in laminar flow},\n  year = {2024},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {6},\n  number = {4},\n  pages = {365-386},\n  doi = {10.1007/s42757-023-0184-8},\n  url = {https://doi.org/10.1007/s42757-023-0184-8},\n  keywords = {gas–liquid–solid flows, suspension, single bubbles, bubble shape, numerical simulations, particle–bubble collisions, impact efficiency},\n}"
   },
   {
     "doi": "10.1007/s42757-023-0168-8",
@@ -4464,7 +4542,8 @@
     "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0168-8.pdf",
     "research_area": [
       "Particle behaviors and interactions"
-    ]
+    ],
+    "bibtex": "@article{Zhou2024,\n  author = {Zhou, Lixing and Zhang, Xia and Yu, Yong},\n  title = {Experimental and numerical studies on the wall-roughness effect to particle dynamics in various gas–particle flows},\n  year = {2024},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {6},\n  number = {4},\n  pages = {387-394},\n  doi = {10.1007/s42757-023-0168-8},\n  url = {https://doi.org/10.1007/s42757-023-0168-8},\n  keywords = {wall roughness, phase-Doppler particle anemometry (PDPA), numerical simulation, particle dynamics, gas–particle flows},\n}"
   },
   {
     "doi": "10.1007/s42757-023-0177-7",
@@ -4510,7 +4589,8 @@
     "research_area": [
       "Computational methods and modeling",
       "Interface interaction"
-    ]
+    ],
+    "bibtex": "@article{Levin2024,\n  author = {Levin, Anatoliy A. and Safarov, Alexei S. and Chernov, Andrey A.},\n  title = {Factors affecting the formation of a cumulative jet after the collapse of a vapor bubble in a subcooled liquid},\n  year = {2024},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {6},\n  number = {4},\n  pages = {395-407},\n  doi = {10.1007/s42757-023-0177-7},\n  url = {https://doi.org/10.1007/s42757-023-0177-7},\n  keywords = {laser-induced boiling, vapor bubble, numerical simulation, level-set model},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0189-y",
@@ -4563,7 +4643,8 @@
       "Porous media",
       "Heat transfers",
       "Computational methods and modeling"
-    ]
+    ],
+    "bibtex": "@article{Bibin2024,\n  author = {Bibin, Kattupurathu Scharia and Raj, Sarath and Jayakumar, Janardanan Sarasamma and Roy, Krishnan Kutty Elsy Bai Reby},\n  title = {OpenFOAM modelling of single-phase and two-phase heat transfer in square ducts partially filled with porous medium},\n  year = {2024},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {6},\n  number = {4},\n  pages = {408-427},\n  doi = {10.1007/s42757-024-0189-y},\n  url = {https://doi.org/10.1007/s42757-024-0189-y},\n  keywords = {computational fluid dynamics (CFD), code development, porous medium, phase change, square duct, heat transfer enhancement},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0198-x",
@@ -4626,7 +4707,8 @@
       "Disperse dynamics",
       "Gas-liquid/particle flows",
       "Multiphase vortex dynamics"
-    ]
+    ],
+    "bibtex": "@article{Aminjan2024,\n  author = {Aminjan, Kiumars Khani and Sedaghat, Mehdi and Heidari, Milad and Khashehchi, Morteza and Mohammadzadeh, Kazem and Salahinezhad, Mohammad and Bina, Rahim},\n  title = {Numerical investigation of the impact of fuel temperature on spray characteristics in a pressure-swirl atomizer with spiral path},\n  year = {2024},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {6},\n  number = {4},\n  pages = {428-445},\n  doi = {10.1007/s42757-024-0198-x},\n  url = {https://doi.org/10.1007/s42757-024-0198-x},\n  keywords = {pressure-swirl atomizer, spiral path, fuel temperature, spray cone angle},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0196-z",
@@ -4666,7 +4748,8 @@
     "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0196-z.pdf",
     "research_area": [
       "Computational methods and modeling"
-    ]
+    ],
+    "bibtex": "@misc{Date2024,\n  author = {Date, Abhijit and Akbarzadeh, Aliakbar and Inthavong, Kiao},\n  title = {Message from the Guest Editors of the Joint 21st International Heat Pipe Conference and 15th International Heat Pipe Symposium Special Issue},\n  year = {2024},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {6},\n  number = {3},\n  pages = {195-198},\n  doi = {10.1007/s42757-024-0196-z},\n  url = {https://doi.org/10.1007/s42757-024-0196-z},\n}"
   },
   {
     "doi": "10.1007/s42757-023-0186-6",
@@ -4714,7 +4797,8 @@
     "research_area": [
       "Interface interaction",
       "Phase changes"
-    ]
+    ],
+    "bibtex": "@article{Kulshrestha2024,\n  author = {Kulshrestha, Tarun and Chatterjee, Debartha and Khandekar, Sameer},\n  title = {Effect of far-field ambient conditions on interfacial solar vapor generation using a two-phase closed thermosyphon},\n  year = {2024},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {6},\n  number = {3},\n  pages = {199-213},\n  doi = {10.1007/s42757-023-0186-6},\n  url = {https://doi.org/10.1007/s42757-023-0186-6},\n  keywords = {interfacial vapor generation, thermosyphon, environmental chamber, evaporation, natural convection, Sherwood equation},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0194-1",
@@ -4771,7 +4855,8 @@
       "Phase changes",
       "Heat transfers",
       "Computational methods and modeling"
-    ]
+    ],
+    "bibtex": "@article{Vieira2024,\n  author = {Vieira, Camila Braga and Ghelin, Olivier Fontaine de and Goffaux, Cecile and Nicolle, Thomas and Dupont, Vincent},\n  title = {Numerical challenges of CFD simulations of two-phase injectors working in the direct contact condensation mode},\n  year = {2024},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {6},\n  number = {3},\n  pages = {214-228},\n  doi = {10.1007/s42757-024-0194-1},\n  url = {https://doi.org/10.1007/s42757-024-0194-1},\n  keywords = {two-phase flow, direct contact condensation (DCC), injector, ejector, capillary jet loop (CJL), Lee model},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0193-2",
@@ -4821,7 +4906,8 @@
     "research_area": [
       "Heat transfers",
       "Measurement techniques"
-    ]
+    ],
+    "bibtex": "@article{Castro2024,\n  author = {Castro, Sergio Iván Cáceres and Kirsch, Marc and Kulenovic, Rudi and Starflinger, Jörg},\n  title = {Experimental investigation of the heat transfer characteristics, operating limits, and temperature distribution of a prototypically 3 m long two-phase closed thermosyphon for spent fuel pool passive cooling},\n  year = {2024},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {6},\n  number = {3},\n  pages = {229-241},\n  doi = {10.1007/s42757-024-0193-2},\n  url = {https://doi.org/10.1007/s42757-024-0193-2},\n  keywords = {thermosyphon, temperature distribution, filling ratio, stainless steel–water},\n}"
   },
   {
     "doi": "10.1007/s42757-023-0185-5",
@@ -4871,7 +4957,8 @@
     "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0185-5.pdf",
     "research_area": [
       "Heat transfers"
-    ]
+    ],
+    "bibtex": "@article{Bernagozzi2024,\n  author = {Bernagozzi, Marco and Georgoulas, Anastasios and Miché, Nicolas and Marengo, Marco},\n  title = {Experimental analysis of the influence of ambient temperature for a Loop Heat Pipe based Battery Thermal Management System},\n  year = {2024},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {6},\n  number = {3},\n  pages = {242-252},\n  doi = {10.1007/s42757-023-0185-5},\n  url = {https://doi.org/10.1007/s42757-023-0185-5},\n  keywords = {battery thermal management system (BTMS), electric vehicle (EV), loop heat pipe (LHP), thermal chamber, ambient temperature},\n}"
   },
   {
     "doi": "10.1007/s42757-023-0178-6",
@@ -4936,7 +5023,8 @@
       "Flow instability",
       "Heat transfers",
       "Measurement techniques"
-    ]
+    ],
+    "bibtex": "@article{Ayel2024,\n  author = {Ayel, Vincent and Pagliarini, Luca and Veer, Thibault Van't and Slobodeniuk, Maksym and Bozzoli, Fabio and Romestant, Cyril and Bertin, Yves},\n  title = {Experimental analyses of temperature and pressure oscillation frequencies of a flat plate pulsating heat pipe tested under various edge orientation angles and heat loads},\n  year = {2024},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {6},\n  number = {3},\n  pages = {253-264},\n  doi = {10.1007/s42757-023-0178-6},\n  url = {https://doi.org/10.1007/s42757-023-0178-6},\n  keywords = {flat plate pulsating heat pipe, edge orientation, thermal performance, infrared (IR), FFT frequency analysis, wavelet},\n}"
   },
   {
     "doi": "10.1007/s42757-023-0179-5",
@@ -4981,7 +5069,8 @@
       "Heat transfers",
       "Measurement techniques",
       "Multiphase flow visualization"
-    ]
+    ],
+    "bibtex": "@article{Iwata2024,\n  author = {Iwata, Naoko and Bozzoli, Fabio},\n  title = {Investigation of operational limit of a pulsating heat pipe by estimating local heat transfer},\n  year = {2024},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {6},\n  number = {3},\n  pages = {265-276},\n  doi = {10.1007/s42757-023-0179-5},\n  url = {https://doi.org/10.1007/s42757-023-0179-5},\n  keywords = {pulsating heat pipe (PHP), oscillating heat pipe, operational limit, local heat flux, inverse heat conduction problem, infrared measurement},\n}"
   },
   {
     "doi": "10.1007/s42757-024-0187-0",
@@ -5028,7 +5117,8 @@
     "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0187-0.pdf",
     "research_area": [
       "Heat transfers"
-    ]
+    ],
+    "bibtex": "@article{Krambeck2024,\n  author = {Krambeck, Larissa and Domiciano, Kelvin Guessi and Mantelli, Marcia B. H.},\n  title = {A new flat electronics cooling device composed of internal parallel loop heat pipes},\n  year = {2024},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {6},\n  number = {3},\n  pages = {277-286},\n  doi = {10.1007/s42757-024-0187-0},\n  url = {https://doi.org/10.1007/s42757-024-0187-0},\n  keywords = {two-phase device, loop heat pipe (LHP), parallel arrangement, pulsating heat pipe (PHP), diffusion bonding, electronics cooling},\n}"
   },
   {
     "doi": "10.1007/s42757-023-0158-x",
@@ -5079,7 +5169,8 @@
       "Computational methods and modeling",
       "Gas-liquid/particle flows",
       "Particle behaviors and interactions"
-    ]
+    ],
+    "bibtex": "@article{Akbari2024,\n  author = {Akbari, Vahid and Borhani, Tohid Nejad Ghaffar and Shamiri, Ahmad and Shafeeyan, Mohammad Saleh},\n  title = {Computational fluid dynamics modeling of gas–solid fluidized bed reactor: Influence of numerical and operating parameters},\n  year = {2024},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {6},\n  number = {2},\n  pages = {85-125},\n  doi = {10.1007/s42757-023-0158-x},\n  url = {https://doi.org/10.1007/s42757-023-0158-x},\n  keywords = {fluidized bed reactor (FBR), computational fluid dynamics (CFD), particle size distribution (PSD), mixing and segregation},\n}"
   },
   {
     "doi": "10.1007/s42757-023-0174-x",
@@ -5138,7 +5229,8 @@
       "Interface interaction",
       "Heat transfers",
       "Phase changes"
-    ]
+    ],
+    "bibtex": "@article{Chen2024,\n  author = {Chen, Yongzhong and Wang, Jue and Ouyang, Shifan and Wang, Zhentao and Li, Bin and Wang, Junfeng},\n  title = {Experimental and LBM simulation study on the effect of bubble merging on saturated pool boiling in pure water},\n  year = {2024},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {6},\n  number = {2},\n  pages = {126-134},\n  doi = {10.1007/s42757-023-0174-x},\n  url = {https://doi.org/10.1007/s42757-023-0174-x},\n  keywords = {saturated pool boiling, bubble merging, critical heat flux (CHF), dry spot},\n}"
   },
   {
     "doi": "10.1007/s42757-023-0173-y",
@@ -5181,7 +5273,8 @@
     "research_area": [
       "Multiphase flow regimes",
       "Computational methods and modeling"
-    ]
+    ],
+    "bibtex": "@article{Evgenidis2024,\n  author = {Evgenidis, Sotiris P. and Karapantsios, Thodoris D.},\n  title = {3D simulation of pulsatile bubbly flow resembling decompression sickness conditions inside a realistic human artery},\n  year = {2024},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {6},\n  number = {2},\n  pages = {135-139},\n  doi = {10.1007/s42757-023-0173-y},\n  url = {https://doi.org/10.1007/s42757-023-0173-y},\n  keywords = {computational fluid dynamics (CFD), bubbly flow, decompression sickness (DCS), void fraction, flow velocity},\n}"
   },
   {
     "doi": "10.1007/s42757-023-0181-y",
@@ -5239,7 +5332,8 @@
     "research_area": [
       "Interface interaction",
       "Computational methods and modeling"
-    ]
+    ],
+    "bibtex": "@article{Nagel2024,\n  author = {Nagel, Luise and Lippert, Anja and Tolle, Tobias and Leonhardt, Ronny and Zhang, Huijie and Marić, Tomislav},\n  title = {Stabilizing the unstructured Volume-of-Fluid method for capillary flows in microstructures using artificial viscosity},\n  year = {2024},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {6},\n  number = {2},\n  pages = {140-153},\n  doi = {10.1007/s42757-023-0181-y},\n  url = {https://doi.org/10.1007/s42757-023-0181-y},\n  keywords = {Lab-on-Chip (LoC), Volume-of-Fluid (VoF), artificial viscosity, spurious currents},\n}"
   },
   {
     "doi": "10.1007/s42757-023-0170-1",
@@ -5290,7 +5384,8 @@
       "Multiphase flow regimes",
       "Multiphase flow dynamics",
       "Computational methods and modeling"
-    ]
+    ],
+    "bibtex": "@article{Abdul-Majeed2024,\n  author = {Abdul-Majeed, Ghassan and Al-Sarkhi, Abdelsalam and Mohmmed, Abdalellah O. and Hamoudi, Maha R.},\n  title = {An empirical approach for predicting slug to pseudo-slug transition of air/water upward two-phase flow},\n  year = {2024},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {6},\n  number = {2},\n  pages = {154-169},\n  doi = {10.1007/s42757-023-0170-1},\n  url = {https://doi.org/10.1007/s42757-023-0170-1},\n  keywords = {churn flow, flow pattern transition, pseudo-slug (PSL), slug (SL) flow},\n}"
   },
   {
     "doi": "10.1007/s42757-023-0183-9",
@@ -5339,7 +5434,8 @@
       "Computational methods and modeling",
       "Multiphase turbulence mechanisms",
       "Disperse dynamics"
-    ]
+    ],
+    "bibtex": "@article{Li2024,\n  author = {Li, Xueren and Fang, Xiang and Yan, Yihuan},\n  title = {In-depth investigation of air quality and CO<sub>2</sub> lock-up phenomenon in pilots’ local environment},\n  year = {2024},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {6},\n  number = {2},\n  pages = {170-179},\n  doi = {10.1007/s42757-023-0183-9},\n  url = {https://doi.org/10.1007/s42757-023-0183-9},\n  keywords = {indoor air quality (IAQ), aircraft cockpit, carbon dioxide, computational fluid dynamics (CFD), pilots’ micro-environment, ventilation},\n}"
   },
   {
     "doi": "10.1007/s42757-023-0161-2",
@@ -5395,7 +5491,8 @@
       "Reacting flows",
       "Computational methods and modeling",
       "Heat transfers"
-    ]
+    ],
+    "bibtex": "@article{Zhang2024,\n  author = {Zhang, Kaige and Liang, Jin and Liu, Huili and Bao, Guirong and Wang, Hua},\n  title = {Modeling of chemical-looping combustion process of methane with nickel-based oxygen carrier},\n  year = {2024},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {6},\n  number = {2},\n  pages = {180-194},\n  doi = {10.1007/s42757-023-0161-2},\n  url = {https://doi.org/10.1007/s42757-023-0161-2},\n  keywords = {chemical-looping combustion (CLC) process, heat transfer coefficient, chemical reaction, dense gas–solid reacting flow, numerical simulation},\n}"
   },
   {
     "doi": "10.1007/s42757-023-0172-z",
@@ -5447,7 +5544,8 @@
       "Multiphase flow dynamics",
       "Measurement techniques",
       "Particle behaviors and interactions"
-    ]
+    ],
+    "bibtex": "@article{Yan2024,\n  author = {Yan, Yihuan and Mohanarangam, Krishna and Yang, William and Tu, Jiyuan},\n  title = {Experimental measuring techniques for industrial-scale multiphase flow problems},\n  year = {2024},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {6},\n  number = {1},\n  pages = {1-13},\n  doi = {10.1007/s42757-023-0172-z},\n  url = {https://doi.org/10.1007/s42757-023-0172-z},\n  keywords = {industrial experimental measurement, laser Doppler velocimetry (LDV), particle image velocimetry (PIV), particle/droplet image analysis, measuring techniques},\n}"
   },
   {
     "doi": "10.1007/s42757-023-0160-3",
@@ -5498,7 +5596,8 @@
       "Multiphase flow dynamics",
       "Computational methods and modeling",
       "Measurement techniques"
-    ]
+    ],
+    "bibtex": "@article{Arabi2024,\n  author = {Arabi, Abderraouf and Abdul-Majeed, Ghassan H. and Boukrouche, Houari B. and Larbi, Zakaria},\n  title = {Pressure recovery model for gas–liquid two-phase flow across sudden expansions},\n  year = {2024},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {6},\n  number = {1},\n  pages = {14-27},\n  doi = {10.1007/s42757-023-0160-3},\n  url = {https://doi.org/10.1007/s42757-023-0160-3},\n  keywords = {gas–liquid two-phase flow, sudden expansion, pressure recovery (PR), two-phase multiplier},\n}"
   },
   {
     "doi": "10.1007/s42757-022-0153-7",
@@ -5553,7 +5652,8 @@
     "research_area": [
       "Multiphase flow regimes",
       "Flow instability"
-    ]
+    ],
+    "bibtex": "@article{Arabi2024,\n  author = {Arabi, Abderraouf and Salhi, Yacine and Zenati, Youcef and Si-Ahmed, El-Khider and Legrand, Jack},\n  title = {Identifying the intermittent flow sub-regimes using pressure drop time series fluctuations},\n  year = {2024},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {6},\n  number = {1},\n  pages = {28-40},\n  doi = {10.1007/s42757-022-0153-7},\n  url = {https://doi.org/10.1007/s42757-022-0153-7},\n  keywords = {gas–liquid two-phase flow, intermittent gas–liquid flow, sub-regimes, pressure drop time series fluctuations, probability density function (PDF)},\n}"
   },
   {
     "doi": "10.1007/s42757-023-0166-x",
@@ -5597,7 +5697,8 @@
     "research_area": [
       "Particle behaviors and interactions",
       "Multiphase turbulence mechanisms"
-    ]
+    ],
+    "bibtex": "@article{Peters2024,\n  author = {Peters, Joshua and Birouk, Madjid},\n  title = {Liquid jet breakup in a subsonic cross airflow: An experimental study of the effect of the gas phase turbulence},\n  year = {2024},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {6},\n  number = {1},\n  pages = {41-58},\n  doi = {10.1007/s42757-023-0166-x},\n  url = {https://doi.org/10.1007/s42757-023-0166-x},\n  keywords = {liquid jet, crossflow, turbulence, Weber number, jet trajectory, breakup mechanism},\n}"
   },
   {
     "doi": "10.1007/s42757-023-0171-0",
@@ -5655,7 +5756,8 @@
     "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0171-0.pdf",
     "research_area": [
       "Heat transfers"
-    ]
+    ],
+    "bibtex": "@article{Wu2024,\n  author = {Wu, Hao and Niu, Fenglei and Gui, Nan and Yang, Xingtuan and Tu, Jiyuan and Jiang, Shengyao},\n  title = {A thermal resistance model of conduction–thermal radiation heat transfer in pebble-bed nuclear reactors},\n  year = {2024},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {6},\n  number = {1},\n  pages = {59-66},\n  doi = {10.1007/s42757-023-0171-0},\n  url = {https://doi.org/10.1007/s42757-023-0171-0},\n  keywords = {pebble-bed nuclear reactors, thermal radiation, resistance, effective thermal conductivity, void fraction},\n}"
   },
   {
     "doi": "10.1007/s42757-023-0159-9",
@@ -5702,7 +5804,8 @@
     "research_area": [
       "Multiphase flow dynamics",
       "Porous media"
-    ]
+    ],
+    "bibtex": "@article{Rahman2024,\n  author = {Rahman, Khalilur and Parvin, Salma and Khan, Abdul Hakim},\n  title = {Analysis of two-phase flow in the porous medium through a rectangular curved duct},\n  year = {2024},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {6},\n  number = {1},\n  pages = {67-83},\n  doi = {10.1007/s42757-023-0159-9},\n  url = {https://doi.org/10.1007/s42757-023-0159-9},\n  keywords = {rectangular curved duct, Dean number, two-phase flow, finite element method, porous medium},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0284-8",
@@ -5751,7 +5854,8 @@
     "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0284-8.pdf",
     "research_area": [
       "Granular flows"
-    ]
+    ],
+    "bibtex": "@article{Müller2026,\n  author = {Müller, Tobias H. and Oezkaya, E. and Biermann, Dirk and Eberhard, Peter},\n  title = {Metal chip transport through narrow twisted drill channels—Coupling of CFD and DEM},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {4},\n  pages = {657-668},\n  doi = {10.1007/s42757-025-0284-8},\n  url = {https://doi.org/10.1007/s42757-025-0284-8},\n  keywords = {CFD-DEM coupling, chip transport, vibration-assisted drilling, minimum quantity lubrication},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0274-x",
@@ -5795,7 +5899,8 @@
     "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0274-x.pdf",
     "research_area": [
       "Interface interaction"
-    ]
+    ],
+    "bibtex": "@article{Kováts2026,\n  author = {Kováts, Péter and Zähringer, Katharina},\n  title = {Influence of viscosity and surface tension on bubble aspect ratios in bubble swarms: A new correlation},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {4},\n  pages = {669-683},\n  doi = {10.1007/s42757-025-0274-x},\n  url = {https://doi.org/10.1007/s42757-025-0274-x},\n  keywords = {bubble aspect ratio, bubble swarm, viscosity, surface tension, correlation},\n}"
   },
   {
     "doi": "10.1007/s42757-026-0283-4",
@@ -5840,7 +5945,8 @@
     "research_area": [
       "Heat transfers",
       "Phase changes"
-    ]
+    ],
+    "bibtex": "@article{G2026,\n  author = {G, Rafałko and H, Grzybowski and P, Dzienis},\n  title = {Multichannel flow boiling maldistribution and synchronization},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {4},\n  pages = {684-693},\n  doi = {10.1007/s42757-026-0283-4},\n  url = {https://doi.org/10.1007/s42757-026-0283-4},\n  keywords = {flow boiling, multichannel, maldistribution, synchronization},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0280-z",
@@ -5887,7 +5993,8 @@
       "Computational methods and modeling",
       "Heat transfers",
       "Phase changes"
-    ]
+    ],
+    "bibtex": "@article{R2026,\n  author = {R, Vallem and S, Merbold and S, de Graaf},\n  title = {Numerical simulation of multiphase heat transfer and evaporation of liquid films in rectangular heat exchanger channels},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {4},\n  pages = {694-711},\n  doi = {10.1007/s42757-025-0280-z},\n  url = {https://doi.org/10.1007/s42757-025-0280-z},\n  keywords = {multiphase heat transfer, evaporation, liquid film, VOF, numerical simulation},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0268-8",
@@ -5942,7 +6049,8 @@
       "Multiphase flow dynamics",
       "Computational methods and modeling",
       "Multiphase flow regimes"
-    ]
+    ],
+    "bibtex": "@article{Schmelter2026,\n  author = {Schmelter, Sonja and Knotek, Stanislav and Olbrich, Marc and Bär, Markus},\n  title = {Improving the estimation of slug frequency from two-phase flow simulations in horizontal pipelines},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {4},\n  pages = {712-726},\n  doi = {10.1007/s42757-025-0268-8},\n  url = {https://doi.org/10.1007/s42757-025-0268-8},\n  keywords = {gas–liquid two-phase flow, horizontal pipelines, computational fluid dynamics (CFD), slug frequency, power spectral density (PSD), slug unit time distribution},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0263-0",
@@ -5988,7 +6096,8 @@
     "research_area": [
       "Computational methods and modeling",
       "Interface interaction"
-    ]
+    ],
+    "bibtex": "@article{Arnold2026,\n  author = {Arnold, Toni Fritz and Höhne, Thomas},\n  title = {Validation of the AIAD model in ANSYS Fluent for horizontal two-phase flows},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {4},\n  pages = {727-742},\n  doi = {10.1007/s42757-025-0263-0},\n  url = {https://doi.org/10.1007/s42757-025-0263-0},\n  keywords = {Fluent, Algebraic Interfacial Area Model (AIAD), HAWAC, validation, computational fluid dynamics (CFD)},\n}"
   },
   {
     "doi": "10.1007/s42757-026-0284-3",
@@ -6034,7 +6143,8 @@
       "Interface interaction",
       "Computational methods and modeling",
       "Multiphase turbulence mechanisms"
-    ]
+    ],
+    "bibtex": "@article{Hermes2026,\n  author = {Hermes, Mario and Skoda, Romuald},\n  title = {Effect of droplet size on the fluctuation velocity of single droplets suspended in forced homogeneous isotropic turbulent flow},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {4},\n  pages = {743-771},\n  doi = {10.1007/s42757-026-0284-3},\n  url = {https://doi.org/10.1007/s42757-026-0284-3},\n  keywords = {interface-resolving direct numerical simulation, geometric volume of fluid, droplet-laden homogeneous isotropic turbulent flow, population balance modelling, OpenFOAM},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0276-8",
@@ -6099,7 +6209,8 @@
       "Gas-liquid/particle flows",
       "Particle behaviors and interactions",
       "Computational methods and modeling"
-    ]
+    ],
+    "bibtex": "@article{Rave2026,\n  author = {Rave, Kevin and Vogl, Norbert and Klos, Wilfried and Odenthal, Hans-Jürgen and Konior, Aneta and Matriciani, Jean Pierre and Fuchs, Josef and Müller, Stefan},\n  title = {Experiments and 3D transient MP-PIC simulations of a circulating fluidized bed reactor},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {4},\n  pages = {772-786},\n  doi = {10.1007/s42757-025-0276-8},\n  url = {https://doi.org/10.1007/s42757-025-0276-8},\n  keywords = {circulating fluidized bed (CFB), CFD, multiphase particle-in-cell (MP-PIC), OpenFOAM, particle size measurements},\n}"
   },
   {
     "doi": "10.1007/s42757-025-0278-6",
@@ -6138,6 +6249,7 @@
     "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0278-6.pdf",
     "research_area": [
       "Computational methods and modeling"
-    ]
+    ],
+    "bibtex": "@misc{Lucas2026,\n  author = {Lucas, Dirk},\n  title = {Message from the Guest Editor of the 20th Multiphase Flow Conference Special Issue},\n  year = {2026},\n  journal = {Experimental and Computational Multiphase Flow},\n  volume = {8},\n  number = {4},\n  pages = {655-656},\n  doi = {10.1007/s42757-025-0278-6},\n  url = {https://doi.org/10.1007/s42757-025-0278-6},\n  keywords = {multiphase flow, special issue, conference},\n}"
   }
 ]
