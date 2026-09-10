@@ -457,6 +457,14 @@ async function loadData() {
   try {
     const r = await fetch(DATA_URL);
     allArticles = await r.json();
+    // Sort by volume desc, issue desc, firstpage desc (newest first)
+    allArticles.sort((a, b) => {
+      const vol = (b.volume || 0) - (a.volume || 0);
+      if (vol !== 0) return vol;
+      const iss = (b.issue || 0) - (a.issue || 0);
+      if (iss !== 0) return iss;
+      return (b.firstpage || 0) - (a.firstpage || 0);
+    });
     filteredArticles = allArticles;
     fillFilters();
     render();
