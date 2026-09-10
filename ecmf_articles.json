@@ -6100,5 +6100,44 @@
       "Particle behaviors and interactions",
       "Computational methods and modeling"
     ]
+  },
+  {
+    "doi": "10.1007/s42757-025-0278-6",
+    "title": "Message from the Guest Editor of the 20th Multiphase Flow Conference Special Issue",
+    "authors": [
+      {
+        "name": "Dirk Lucas"
+      }
+    ],
+    "affiliations": [
+      "Institute of Fluid Dynamics, Helmholtz-Zentrum Dresden - Rossendorf, Bautzner Landstr. 400, Dresden 01328, Germany"
+    ],
+    "keywords": [
+      "multiphase flow",
+      "special issue",
+      "conference"
+    ],
+    "abstract": "",
+    "volume": 8,
+    "issue": 4,
+    "firstpage": "655",
+    "lastpage": "656",
+    "year": 2026,
+    "publication_date": "2026/9/10",
+    "online_date": "2026/9/10",
+    "received": "",
+    "revised": "",
+    "accepted": "",
+    "published": "10 September 2026",
+    "type": "Editorial",
+    "url": "https://www.sciopen.com/article/10.1007/s42757-025-0278-6",
+    "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-025-0278-6.pdf",
+    "internal_id": "2097889885868032999",
+    "publisher": "清华大学出版社",
+    "issn": "2661-8869",
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0278-6.pdf",
+    "research_area": [
+      "Computational methods and modeling"
+    ]
   }
 ]
