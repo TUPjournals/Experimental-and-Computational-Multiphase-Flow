@@ -43,7 +43,15 @@
     "internal_id": "2089177730877280258",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0255-0.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0255-0.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Multiphase flow regimes",
+      "Multiphase flow dynamics",
+      "Particle behaviors and interactions",
+      "Granular flows",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-025-0259-9",
@@ -94,7 +102,18 @@
     "internal_id": "2089177767334170626",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0259-9.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0259-9.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Reacting flows",
+      "Multiphase turbulence mechanisms",
+      "Multiphase flow dynamics",
+      "Particle behaviors and interactions",
+      "Disperse dynamics",
+      "Gas-liquid/particle flows",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-025-0253-2",
@@ -154,7 +173,14 @@
     "internal_id": "2089177772782571522",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0253-2.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0253-2.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Heat transfers",
+      "Phase changes",
+      "Flow instability",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-025-0250-5",
@@ -228,7 +254,15 @@
     "internal_id": "2089177724648738817",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0250-5.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0250-5.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Multiphase flow regimes",
+      "Multiphase turbulence mechanisms",
+      "Particle behaviors and interactions",
+      "Granular flows",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-025-0257-y",
@@ -312,7 +346,16 @@
     "internal_id": "2089177716625035266",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0257-y.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0257-y.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Multiphase flow regimes",
+      "Flow instability",
+      "Multiphase flow visualization",
+      "Computational methods and modeling",
+      "Measurement techniques",
+      "Data processing methods"
+    ]
   },
   {
     "doi": "10.1007/s42757-025-0246-1",
@@ -363,7 +406,13 @@
     "internal_id": "2089177777933176834",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0246-1.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0246-1.pdf",
+    "research_area": [
+      "Multiphase vortex dynamics",
+      "Multiphase flow visualization",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-025-0248-z",
@@ -421,7 +470,14 @@
     "internal_id": "2089177691115278337",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0248-z.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0248-z.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Multiphase flow visualization",
+      "Porous media",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-025-0240-7",
@@ -483,7 +539,13 @@
     "internal_id": "2089177749529350146",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0240-7.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0240-7.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Multiphase vortex dynamics",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-025-0272-z",
@@ -531,7 +593,15 @@
     "internal_id": "2089177736522813442",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0272-z.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0272-z.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Multiphase flow regimes",
+      "Multiphase turbulence mechanisms",
+      "Multiphase flow dynamics",
+      "Granular flows",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0238-6",
@@ -582,7 +652,14 @@
     "internal_id": "1893924927843188738",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0238-6.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0238-6.pdf",
+    "research_area": [
+      "Multiphase turbulence mechanisms",
+      "Multiphase flow dynamics",
+      "Particle behaviors and interactions",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0237-7",
@@ -630,7 +707,11 @@
     "internal_id": "2089177696857280513",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0237-7.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0237-7.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-025-0264-z",
@@ -693,7 +774,15 @@
     "internal_id": "2089177761927712769",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0264-z.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0264-z.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Multiphase flow regimes",
+      "Flow instability",
+      "Multiphase flow visualization",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-025-0271-0",
@@ -757,7 +846,14 @@
     "internal_id": "2089177757183954945",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0271-0.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0271-0.pdf",
+    "research_area": [
+      "Heat transfers",
+      "Phase changes",
+      "Multiphase flow regimes",
+      "Multiphase flow dynamics",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-025-0265-y",
@@ -811,7 +907,19 @@
     "internal_id": "2089177701047390210",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0265-y.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0265-y.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Multiphase vortex dynamics",
+      "Reacting flows",
+      "Multiphase flow dynamics",
+      "Particle behaviors and interactions",
+      "Disperse dynamics",
+      "Multiphase flow visualization",
+      "Gas-liquid/particle flows",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-025-0256-z",
@@ -883,7 +991,15 @@
     "internal_id": "2089177711604453378",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0256-z.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0256-z.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Multiphase flow regimes",
+      "Multiphase turbulence mechanisms",
+      "Multiphase flow dynamics",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-025-0252-3",
@@ -931,7 +1047,12 @@
     "internal_id": "2089177705342357505",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0252-3.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0252-3.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Multiphase flow dynamics",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-026-0299-9",
@@ -1000,7 +1121,15 @@
     "internal_id": "2089177753929175042",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-026-0299-9.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-026-0299-9.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Multiphase turbulence mechanisms",
+      "Particle behaviors and interactions",
+      "Disperse dynamics",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-025-0282-x",
@@ -1038,7 +1167,11 @@
     "internal_id": "2059185013078413313",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0282-x.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0282-x.pdf",
+    "research_area": [
+      "Disperse dynamics",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-025-0273-y",
@@ -1081,7 +1214,17 @@
     "internal_id": "2059185010079485953",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0273-y.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0273-y.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Multiphase flow regimes",
+      "Multiphase turbulence mechanisms",
+      "Particle behaviors and interactions",
+      "Disperse dynamics",
+      "Flow instability",
+      "Granular flows",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-025-0249-y",
@@ -1136,7 +1279,15 @@
     "internal_id": "2059185016983310337",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0249-y.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0249-y.pdf",
+    "research_area": [
+      "Multiphase turbulence mechanisms",
+      "Particle behaviors and interactions",
+      "Disperse dynamics",
+      "Gas-liquid/particle flows",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0228-8",
@@ -1230,7 +1381,12 @@
     "internal_id": "2059185032393183233",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0228-8.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0228-8.pdf",
+    "research_area": [
+      "Particle behaviors and interactions",
+      "Flow instability",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0207-0",
@@ -1290,7 +1446,14 @@
     "internal_id": "2059185020733018114",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0207-0.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0207-0.pdf",
+    "research_area": [
+      "Multiphase turbulence mechanisms",
+      "Multiphase flow dynamics",
+      "Particle behaviors and interactions",
+      "Flow instability",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-025-0266-x",
@@ -1370,7 +1533,14 @@
     "internal_id": "2059185039749992450",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0266-x.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0266-x.pdf",
+    "research_area": [
+      "Particle behaviors and interactions",
+      "Disperse dynamics",
+      "Multiphase flow visualization",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-025-0262-1",
@@ -1419,7 +1589,19 @@
     "internal_id": "2059185024671469570",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0262-1.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0262-1.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Heat transfers",
+      "Phase changes",
+      "Reacting flows",
+      "Particle behaviors and interactions",
+      "Disperse dynamics",
+      "Gas-liquid/particle flows",
+      "Granular flows",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-025-0267-9",
@@ -1476,7 +1658,16 @@
     "internal_id": "2059185028110798850",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0267-9.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0267-9.pdf",
+    "research_area": [
+      "Multiphase turbulence mechanisms",
+      "Particle behaviors and interactions",
+      "Disperse dynamics",
+      "Multiphase flow visualization",
+      "Granular flows",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-025-0275-9",
@@ -1564,7 +1755,14 @@
     "internal_id": "2041701623005806594",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0275-9.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0275-9.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Multiphase flow regimes",
+      "Reacting flows",
+      "Multiphase flow dynamics",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-025-0244-3",
@@ -1619,7 +1817,16 @@
     "internal_id": "2041701634158460929",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0244-3.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0244-3.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Multiphase flow dynamics",
+      "Particle behaviors and interactions",
+      "Disperse dynamics",
+      "Multiphase flow visualization",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0226-x",
@@ -1667,7 +1874,15 @@
     "internal_id": "2041701629238542337",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0226-x.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0226-x.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Reacting flows",
+      "Particle behaviors and interactions",
+      "Disperse dynamics",
+      "Gas-liquid/particle flows",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-025-0254-1",
@@ -1716,7 +1931,16 @@
     "internal_id": "2041701661345939458",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0254-1.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0254-1.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Multiphase flow regimes",
+      "Reacting flows",
+      "Multiphase flow dynamics",
+      "Granular flows",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-025-0247-0",
@@ -1768,7 +1992,14 @@
     "internal_id": "2041701651732594690",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0247-0.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0247-0.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Heat transfers",
+      "Phase changes",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-025-0245-2",
@@ -1821,7 +2052,13 @@
     "internal_id": "2041701640017903617",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0245-2.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0245-2.pdf",
+    "research_area": [
+      "Multiphase flow dynamics",
+      "Particle behaviors and interactions",
+      "Gas-liquid/particle flows",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0231-0",
@@ -1871,7 +2108,15 @@
     "internal_id": "1893923329066778625",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0231-0.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0231-0.pdf",
+    "research_area": [
+      "Multiphase vortex dynamics",
+      "Multiphase turbulence mechanisms",
+      "Multiphase flow dynamics",
+      "Particle behaviors and interactions",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0219-9",
@@ -1921,7 +2166,14 @@
     "internal_id": "2041701665980645377",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0219-9.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0219-9.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Multiphase flow dynamics",
+      "Porous media",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0217-y",
@@ -1975,7 +2227,13 @@
     "internal_id": "2041701646246445058",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0217-y.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0217-y.pdf",
+    "research_area": [
+      "Reacting flows",
+      "Multiphase flow dynamics",
+      "Flow instability",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0233-y",
@@ -2029,7 +2287,14 @@
     "internal_id": "2041701681696702465",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0233-y.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0233-y.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Particle behaviors and interactions",
+      "Multiphase flow visualization",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-025-0243-4",
@@ -2077,7 +2342,13 @@
     "internal_id": "2041701671689093121",
     "publisher": "清华大学出版社",
     "issn": "2661-8869",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0243-4.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0243-4.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Multiphase flow dynamics",
+      "Granular flows",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-025-0242-5",
@@ -2115,7 +2386,17 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-025-0242-5.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-025-0242-5",
     "month": "December",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0242-5.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0242-5.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Multiphase vortex dynamics",
+      "Phase changes",
+      "Multiphase flow dynamics",
+      "Particle behaviors and interactions",
+      "Flow instability",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0235-9",
@@ -2166,7 +2447,14 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0235-9.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0235-9",
     "month": "December",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0235-9.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0235-9.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Heat transfers",
+      "Multiphase flow dynamics",
+      "Flow instability",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0214-1",
@@ -2213,7 +2501,13 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0214-1.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0214-1",
     "month": "December",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0214-1.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0214-1.pdf",
+    "research_area": [
+      "Multiphase flow regimes",
+      "Multiphase flow dynamics",
+      "Flow instability",
+      "Data processing methods"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0215-0",
@@ -2268,7 +2562,16 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0215-0.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0215-0",
     "month": "December",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0215-0.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0215-0.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Heat transfers",
+      "Phase changes",
+      "Multiphase flow regimes",
+      "Multiphase flow visualization",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0195-0",
@@ -2316,7 +2619,11 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0195-0.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0195-0",
     "month": "December",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0195-0.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0195-0.pdf",
+    "research_area": [
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0201-6",
@@ -2363,7 +2670,13 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0201-6.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0201-6",
     "month": "December",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0201-6.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0201-6.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Multiphase flow dynamics",
+      "Particle behaviors and interactions",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0220-3",
@@ -2414,7 +2727,17 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0220-3.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0220-3",
     "month": "December",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0220-3.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0220-3.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Multiphase turbulence mechanisms",
+      "Multiphase flow dynamics",
+      "Particle behaviors and interactions",
+      "Disperse dynamics",
+      "Granular flows",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0230-1",
@@ -2470,7 +2793,13 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0230-1.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0230-1",
     "month": "December",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0230-1.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0230-1.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Multiphase flow regimes",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0211-4",
@@ -2533,7 +2862,13 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0211-4.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0211-4",
     "month": "December",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0211-4.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0211-4.pdf",
+    "research_area": [
+      "Heat transfers",
+      "Phase changes",
+      "Multiphase flow dynamics",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0212-3",
@@ -2577,7 +2912,12 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0212-3.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0212-3",
     "month": "December",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0212-3.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0212-3.pdf",
+    "research_area": [
+      "Heat transfers",
+      "Particle behaviors and interactions",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0218-x",
@@ -2620,7 +2960,13 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0218-x.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0218-x",
     "month": "December",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0218-x.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0218-x.pdf",
+    "research_area": [
+      "Heat transfers",
+      "Phase changes",
+      "Multiphase turbulence mechanisms",
+      "Flow instability"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0232-z",
@@ -2671,7 +3017,14 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0232-z.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0232-z",
     "month": "December",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0232-z.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0232-z.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Phase changes",
+      "Particle behaviors and interactions",
+      "Granular flows",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0236-8",
@@ -2710,7 +3063,12 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0236-8.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0236-8",
     "month": "September",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0236-8.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0236-8.pdf",
+    "research_area": [
+      "Flow instability",
+      "Multiphase flow visualization",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0216-z",
@@ -2785,7 +3143,14 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0216-z.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0216-z",
     "month": "September",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0216-z.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0216-z.pdf",
+    "research_area": [
+      "Multiphase flow visualization",
+      "Porous media",
+      "Granular flows",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-025-0239-0",
@@ -2827,7 +3192,12 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-025-0239-0.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-025-0239-0",
     "month": "September",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0239-0.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0239-0.pdf",
+    "research_area": [
+      "Flow instability",
+      "Granular flows",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0200-7",
@@ -2879,7 +3249,14 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0200-7.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0200-7",
     "month": "September",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0200-7.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0200-7.pdf",
+    "research_area": [
+      "Multiphase turbulence mechanisms",
+      "Particle behaviors and interactions",
+      "Disperse dynamics",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-023-0162-1",
@@ -2920,7 +3297,13 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0162-1.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-023-0162-1",
     "month": "September",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0162-1.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0162-1.pdf",
+    "research_area": [
+      "Heat transfers",
+      "Phase changes",
+      "Particle behaviors and interactions",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0205-2",
@@ -2964,7 +3347,16 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0205-2.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0205-2",
     "month": "September",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0205-2.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0205-2.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Multiphase flow regimes",
+      "Multiphase turbulence mechanisms",
+      "Disperse dynamics",
+      "Flow instability",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0209-y",
@@ -3011,7 +3403,14 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0209-y.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0209-y",
     "month": "September",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0209-y.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0209-y.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Multiphase flow regimes",
+      "Particle behaviors and interactions",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0210-5",
@@ -3053,7 +3452,13 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0210-5.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0210-5",
     "month": "September",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0210-5.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0210-5.pdf",
+    "research_area": [
+      "Multiphase flow dynamics",
+      "Flow instability",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0204-3",
@@ -3120,7 +3525,15 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0204-3.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0204-3",
     "month": "September",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0204-3.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0204-3.pdf",
+    "research_area": [
+      "Multiphase flow dynamics",
+      "Particle behaviors and interactions",
+      "Multiphase flow visualization",
+      "Granular flows",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0224-z",
@@ -3158,7 +3571,12 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0224-z.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0224-z",
     "month": "September",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0224-z.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0224-z.pdf",
+    "research_area": [
+      "Particle behaviors and interactions",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-025-0251-4",
@@ -3187,7 +3605,10 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-025-0251-4.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-025-0251-4",
     "month": "June",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0251-4.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0251-4.pdf",
+    "research_area": [
+      "Multiphase flow dynamics"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0206-1",
@@ -3233,7 +3654,13 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0206-1.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0206-1",
     "month": "June",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0206-1.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0206-1.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Particle behaviors and interactions",
+      "Disperse dynamics",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0213-2",
@@ -3287,7 +3714,15 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0213-2.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0213-2",
     "month": "June",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0213-2.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0213-2.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Multiphase vortex dynamics",
+      "Multiphase flow regimes",
+      "Multiphase flow dynamics",
+      "Particle behaviors and interactions",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0203-4",
@@ -3334,7 +3769,18 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0203-4.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0203-4",
     "month": "June",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0203-4.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0203-4.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Reacting flows",
+      "Multiphase turbulence mechanisms",
+      "Multiphase flow dynamics",
+      "Particle behaviors and interactions",
+      "Disperse dynamics",
+      "Multiphase flow visualization",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0227-9",
@@ -3372,7 +3818,15 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0227-9.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0227-9",
     "month": "June",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0227-9.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0227-9.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Multiphase flow regimes",
+      "Multiphase flow dynamics",
+      "Disperse dynamics",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0223-0",
@@ -3420,7 +3874,12 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0223-0.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0223-0",
     "month": "June",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0223-0.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0223-0.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Multiphase flow dynamics",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-025-0241-6",
@@ -3471,7 +3930,16 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-025-0241-6.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-025-0241-6",
     "month": "June",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0241-6.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-025-0241-6.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Reacting flows",
+      "Multiphase flow dynamics",
+      "Particle behaviors and interactions",
+      "Disperse dynamics",
+      "Gas-liquid/particle flows",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0190-5",
@@ -3506,7 +3974,16 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0190-5.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0190-5",
     "month": "March",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0190-5.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0190-5.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Heat transfers",
+      "Phase changes",
+      "Multiphase flow dynamics",
+      "Disperse dynamics",
+      "Granular flows",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0208-z",
@@ -3554,7 +4031,17 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0208-z.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0208-z",
     "month": "March",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0208-z.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0208-z.pdf",
+    "research_area": [
+      "Heat transfers",
+      "Phase changes",
+      "Reacting flows",
+      "Multiphase turbulence mechanisms",
+      "Disperse dynamics",
+      "Gas-liquid/particle flows",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0225-y",
@@ -3609,7 +4096,12 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0225-y.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0225-y",
     "month": "March",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0225-y.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0225-y.pdf",
+    "research_area": [
+      "Multiphase flow dynamics",
+      "Flow instability",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-023-0180-z",
@@ -3660,7 +4152,15 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0180-z.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-023-0180-z",
     "month": "March",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0180-z.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0180-z.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Multiphase flow regimes",
+      "Multiphase flow dynamics",
+      "Flow instability",
+      "Multiphase flow visualization",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0191-4",
@@ -3707,7 +4207,10 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0191-4.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0191-4",
     "month": "March",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0191-4.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0191-4.pdf",
+    "research_area": [
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0192-3",
@@ -3754,7 +4257,18 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0192-3.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0192-3",
     "month": "March",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0192-3.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0192-3.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Multiphase flow dynamics",
+      "Particle behaviors and interactions",
+      "Multiphase flow visualization",
+      "Gas-liquid/particle flows",
+      "Porous media",
+      "Granular flows",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-023-0175-9",
@@ -3810,7 +4324,14 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0175-9.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-023-0175-9",
     "month": "March",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0175-9.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0175-9.pdf",
+    "research_area": [
+      "Heat transfers",
+      "Phase changes",
+      "Multiphase turbulence mechanisms",
+      "Flow instability",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-023-0169-7",
@@ -3849,7 +4370,12 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0169-7.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-023-0169-7",
     "month": "March",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0169-7.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0169-7.pdf",
+    "research_area": [
+      "Multiphase flow regimes",
+      "Flow instability",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0234-x",
@@ -3904,7 +4430,12 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0234-x.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0234-x",
     "month": "March",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0234-x.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0234-x.pdf",
+    "research_area": [
+      "Heat transfers",
+      "Phase changes",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0199-3",
@@ -3940,7 +4471,12 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0199-3.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0199-3",
     "month": "March",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0199-3.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0199-3.pdf",
+    "research_area": [
+      "Multiphase flow dynamics",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0202-5",
@@ -4004,7 +4540,14 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0202-5.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0202-5",
     "month": "December",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0202-5.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0202-5.pdf",
+    "research_area": [
+      "Multiphase flow dynamics",
+      "Particle behaviors and interactions",
+      "Computational methods and modeling",
+      "Measurement techniques",
+      "Data processing methods"
+    ]
   },
   {
     "doi": "10.1007/s42757-023-0182-x",
@@ -4047,7 +4590,18 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0182-x.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-023-0182-x",
     "month": "December",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0182-x.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0182-x.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Multiphase flow regimes",
+      "Multiphase turbulence mechanisms",
+      "Multiphase flow dynamics",
+      "Flow instability",
+      "Multiphase flow visualization",
+      "Gas-liquid/particle flows",
+      "Granular flows",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-023-0184-8",
@@ -4088,7 +4642,14 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0184-8.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-023-0184-8",
     "month": "December",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0184-8.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0184-8.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Reacting flows",
+      "Particle behaviors and interactions",
+      "Disperse dynamics",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-023-0168-8",
@@ -4131,7 +4692,15 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0168-8.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-023-0168-8",
     "month": "December",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0168-8.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0168-8.pdf",
+    "research_area": [
+      "Multiphase vortex dynamics",
+      "Multiphase turbulence mechanisms",
+      "Particle behaviors and interactions",
+      "Flow instability",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-023-0177-7",
@@ -4173,7 +4742,14 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0177-7.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-023-0177-7",
     "month": "December",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0177-7.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0177-7.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Heat transfers",
+      "Phase changes",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0189-y",
@@ -4221,7 +4797,16 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0189-y.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0189-y",
     "month": "December",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0189-y.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0189-y.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Heat transfers",
+      "Phase changes",
+      "Multiphase flow dynamics",
+      "Porous media",
+      "Granular flows",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0198-x",
@@ -4279,7 +4864,15 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0198-x.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0198-x",
     "month": "December",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0198-x.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0198-x.pdf",
+    "research_area": [
+      "Multiphase vortex dynamics",
+      "Disperse dynamics",
+      "Flow instability",
+      "Gas-liquid/particle flows",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0196-z",
@@ -4316,7 +4909,10 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0196-z.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0196-z",
     "month": "September",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0196-z.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0196-z.pdf",
+    "research_area": [
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-023-0186-6",
@@ -4360,7 +4956,14 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0186-6.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-023-0186-6",
     "month": "September",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0186-6.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0186-6.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Phase changes",
+      "Granular flows",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0194-1",
@@ -4412,7 +5015,15 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0194-1.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0194-1",
     "month": "September",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0194-1.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0194-1.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Heat transfers",
+      "Phase changes",
+      "Multiphase turbulence mechanisms",
+      "Multiphase flow dynamics",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0193-2",
@@ -4458,7 +5069,13 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0193-2.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0193-2",
     "month": "September",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0193-2.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0193-2.pdf",
+    "research_area": [
+      "Heat transfers",
+      "Phase changes",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-023-0185-5",
@@ -4505,7 +5122,11 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0185-5.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-023-0185-5",
     "month": "September",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0185-5.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0185-5.pdf",
+    "research_area": [
+      "Heat transfers",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-023-0178-6",
@@ -4565,7 +5186,13 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0178-6.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-023-0178-6",
     "month": "September",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0178-6.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0178-6.pdf",
+    "research_area": [
+      "Heat transfers",
+      "Flow instability",
+      "Multiphase flow visualization",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-023-0179-5",
@@ -4605,7 +5232,13 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0179-5.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-023-0179-5",
     "month": "September",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0179-5.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0179-5.pdf",
+    "research_area": [
+      "Heat transfers",
+      "Flow instability",
+      "Multiphase flow visualization",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-024-0187-0",
@@ -4649,7 +5282,12 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-024-0187-0.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-024-0187-0",
     "month": "September",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0187-0.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-024-0187-0.pdf",
+    "research_area": [
+      "Heat transfers",
+      "Porous media",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-023-0158-x",
@@ -4695,7 +5333,16 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0158-x.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-023-0158-x",
     "month": "June",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0158-x.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0158-x.pdf",
+    "research_area": [
+      "Heat transfers",
+      "Reacting flows",
+      "Multiphase turbulence mechanisms",
+      "Particle behaviors and interactions",
+      "Disperse dynamics",
+      "Gas-liquid/particle flows",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-023-0174-x",
@@ -4749,7 +5396,15 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0174-x.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-023-0174-x",
     "month": "June",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0174-x.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0174-x.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Heat transfers",
+      "Phase changes",
+      "Multiphase flow visualization",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-023-0173-y",
@@ -4788,7 +5443,12 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0173-y.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-023-0173-y",
     "month": "June",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0173-y.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0173-y.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Multiphase flow regimes",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-023-0181-y",
@@ -4842,7 +5502,13 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0181-y.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-023-0181-y",
     "month": "June",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0181-y.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0181-y.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Multiphase flow dynamics",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-023-0170-1",
@@ -4888,7 +5554,14 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0170-1.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-023-0170-1",
     "month": "June",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0170-1.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0170-1.pdf",
+    "research_area": [
+      "Multiphase flow regimes",
+      "Multiphase flow dynamics",
+      "Flow instability",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-023-0183-9",
@@ -4932,7 +5605,12 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0183-9.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-023-0183-9",
     "month": "June",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0183-9.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0183-9.pdf",
+    "research_area": [
+      "Multiphase turbulence mechanisms",
+      "Disperse dynamics",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-023-0161-2",
@@ -4983,7 +5661,15 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0161-2.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-023-0161-2",
     "month": "June",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0161-2.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0161-2.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Heat transfers",
+      "Multiphase flow regimes",
+      "Reacting flows",
+      "Particle behaviors and interactions",
+      "Computational methods and modeling"
+    ]
   },
   {
     "doi": "10.1007/s42757-023-0172-z",
@@ -5030,7 +5716,14 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0172-z.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-023-0172-z",
     "month": "March",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0172-z.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0172-z.pdf",
+    "research_area": [
+      "Interface interaction",
+      "Multiphase turbulence mechanisms",
+      "Multiphase flow dynamics",
+      "Particle behaviors and interactions",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-023-0160-3",
@@ -5076,7 +5769,12 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0160-3.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-023-0160-3",
     "month": "March",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0160-3.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0160-3.pdf",
+    "research_area": [
+      "Multiphase flow dynamics",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-022-0153-7",
@@ -5127,7 +5825,13 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-022-0153-7.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-022-0153-7",
     "month": "March",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-022-0153-7.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-022-0153-7.pdf",
+    "research_area": [
+      "Multiphase flow regimes",
+      "Multiphase turbulence mechanisms",
+      "Multiphase flow dynamics",
+      "Flow instability"
+    ]
   },
   {
     "doi": "10.1007/s42757-023-0166-x",
@@ -5167,7 +5871,12 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0166-x.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-023-0166-x",
     "month": "March",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0166-x.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0166-x.pdf",
+    "research_area": [
+      "Multiphase turbulence mechanisms",
+      "Particle behaviors and interactions",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-023-0171-0",
@@ -5222,7 +5931,14 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0171-0.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-023-0171-0",
     "month": "March",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0171-0.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0171-0.pdf",
+    "research_area": [
+      "Heat transfers",
+      "Particle behaviors and interactions",
+      "Porous media",
+      "Computational methods and modeling",
+      "Measurement techniques"
+    ]
   },
   {
     "doi": "10.1007/s42757-023-0159-9",
@@ -5265,7 +5981,13 @@
     "pdf": "https://www.sciopen.com/article_pdf/10.1007/s42757-023-0159-9.pdf",
     "url": "https://www.sciopen.com/article/10.1007/s42757-023-0159-9",
     "month": "March",
-    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0159-9.pdf"
+    "pdf_springer": "https://link.springer.com/content/pdf/10.1007/s42757-023-0159-9.pdf",
+    "research_area": [
+      "Multiphase vortex dynamics",
+      "Multiphase flow dynamics",
+      "Particle behaviors and interactions",
+      "Porous media"
+    ]
   },
   {
     "doi": "10.1007/s42757-025-0284-8",
